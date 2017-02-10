@@ -7,17 +7,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: A Painter
-subtitle: Great artist
+title: Lucy Tennyson
+subtitle: Yoga teacher
 email: support@eyedivision.com
-name: A Painter
-description: Demo Eye Gallery site
+name: Lucy Tennyson
+description:
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net/"
+url: ""
 logo: "/assets/logo.png"
 
 # Build settings
@@ -29,26 +29,26 @@ permalink: pretty
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-eyegallery-dev.imgix.net"
+  #staging: "http://ed-eyegallery-dev.imgix.net"
   #production: "http://ed-eyegallery.imgix.net"
 
 
 
 # Collections Example
 collections:
-    gallery:
-        output: true
-        permalink: /gallery/:path/
-        _hide_content: true
+    #gallery:
+        #output: true
+        #permalink: /gallery/:path/
+        #_hide_content: true
 
 # Defaults Example
 defaults:
-    -
-        scope:
-            path: ""
-            type: "gallery"
-        values:
-            layout: "gallery"
+   # -
+        #scope:
+            #path: ""
+            #type: "gallery"
+       #values:
+            #layout: "gallery"
 
 
 # Disqus comments
@@ -58,7 +58,7 @@ defaults:
 ga_tracking_id: ""
 
 #Google Recaptcha for contact form
-recaptcha_site_key: 6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF
+recaptcha_site_key:
 
 # Social icons and sharing options
 #
@@ -79,22 +79,22 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: eyedivision
-    url: https://www.facebook.com/eyedivision
+    username: Lucy Tennyson Yoga
+    url: https://www.facebook.com/pages/Lucy-Tennyson-Yoga/455755227920644
     desc: Like on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
-    username: eyedivision
-    url: https://instagram.com/eyedivision
+    username:
+    url:
     desc: Follow me on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: eyedivision
-    url: https://twitter.com/EyeDivision
+    username:
+    url:
     desc: Follow us on Twitter
     share: true
 
