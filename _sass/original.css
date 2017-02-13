@@ -1,0 +1,124 @@
+/* main stylesheet for Lucy Tennyson pages */
+/* Alun Ward, 2005 for EyeDivision www.eyedivision.com */
+/* alun@eyedivision.com */
+
+body {
+	position:relative;
+	font-family: trebuchet, verdana, helvetica, arial, sans-serif;
+	font-size:1em;
+	color: #000000;
+	line-height: 2em;
+	background-color: #FFFFFF;
+	margin:0px 0px 0px 0px;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+}
+
+H1 {
+	font-size: 1.2em;
+	color: #335493;
+	font-size: 1.2em;
+	font-weight: bold;
+	text-align:right;
+}
+H2 {
+	color: #335493;
+	font-size: 1.1em;
+	border-bottom: 1px solid #0066cc;
+	font-weight: normal;
+}
+H3 { font-size: 0.9em; }
+
+P {
+
+}
+
+B, strong { font-weight: 900; color: #663399; background-color:#FFFFFF; }
+
+li, ul, ol {
+	font-style: normal;
+	font-weight: normal;
+}
+
+#container {
+	width: 700px;
+	line-height: 130%;
+	margin: 0px auto;
+	text-align: left;
+}
+#content {
+	height:100%;
+	width: 600px;
+	padding: 1em;
+	line-height: 130%;
+	font-size: 90%;
+	/*border: 1px solid grey;  */
+}
+#leftnav {
+		float:left;
+		width:160px;
+		height: 100%;
+		margin:0;
+		padding-top: 6px;
+		font-size: 0.8em;
+		font-weight: bold;
+		color:#999999;
+		background-color:#FFFFFF;
+		text-align: center;
+}
+#right {
+		float:right;
+		width:160px;
+		height: 100%;
+		margin:0;
+		padding-top: 6px;
+		font-size: 0.8em;
+		font-weight: bold;
+		color:#999999;
+		background-color:#FFFFFF;
+		text-align: center;
+}
+#topnav {
+		margin:1px;
+		padding: 1px;
+		font-size: 0.7em;
+		color: #FFFFFF;
+		background-color:#663399;
+		text-align: center;
+}
+
+#topnav a:link { font-weight: bold; color:#FFFFFF; background-color: #663399; text-decoration: none; border: none; }
+#topnav a:visited { font-weight: bold; color:#FFFFFF; background-color: #663399; text-decoration: none; border: none;  }
+#topnav a:hover { font-weight: bold; color:#FFCC33; background-color: #663399; text-decoration: none; border: none;  }
+#topnav a:active { font-weight: bold; color:#FFCC33; background-color: #663399; text-decoration: none; border: none;  }
+
+#topnav a.current { color:#FFCC33; }
+
+#footer {
+	clear:both;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	font-size: 80%;
+	color:#666666;
+	background-color:#FFFFFF;
+	line-height:140%;
+	border-top: 1px solid #0066CC;
+}
+
+.small { font-size: 10px; }
+
+a:link { color: #0066cc; background-color: #FFFFFF; text-decoration: none; border-bottom: 1px dotted gray; }
+a:visited { color: #3399ff; background-color: #FFFFFF; text-decoration: none; border-bottom: 1px dotted gray;}
+a:hover { color: #ff9900; background-color: #FFFFCC; text-decoration: none; }
+a:active { color: #cc6600; background-color: #FFFFFF; text-decoration: none;}
+
+
+/* form stuff */
+form, label, input { font-size : 1em; }
+fieldset { width : 500px; padding : 0.5em 1em; } /* fill full width */
+label { position : relative; width : 15em; display : block; margin : .5em 0em; }
+label input { position : absolute; left : 100%; top : 0px; width : 10em; }
+input.submit { margin-left : 15em; }
+#top br { display : none; }

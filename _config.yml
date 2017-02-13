@@ -18,7 +18,7 @@ description:
 baseurl: ""
 # the base hostname & protocol for your site
 url: ""
-logo: "/assets/logo.png"
+logo:
 
 # Build settings
 markdown: kramdown
@@ -55,10 +55,10 @@ defaults:
 # disqus_shortname:
 
 # Google analytics
-ga_tracking_id: ""
+ga_tracking_id: UA-91876534-1
 
 #Google Recaptcha for contact form
-recaptcha_site_key:
+recaptcha_site_key: 6LfFcRUUAAAAAMX5e3TaSiKx-B79uV-Uy_Nnk0Fq
 
 # Social icons and sharing options
 #

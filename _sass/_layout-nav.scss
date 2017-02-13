@@ -14,11 +14,17 @@
     @include clearfix;
     position: relative;
     background-color: $white;
+    background: url(/assets/images/header-sea.jpg);
+    background-size: cover;
+    background-position: center 60%;
 }
 
 // logo
 .logo {
-
+    padding: 1em;
+    display: block;
+    text-shadow: 1px 1px 1px $white;
+    color: darken($purple,20%);
     //float: left;
     //height: 6em;
 
@@ -83,9 +89,8 @@ ul.navigation-menu {
 
 li.nav-link {
     display: block;
-    text-align: right;
-    width: 100%;
-    padding: 0.25em 0;
+    text-align: center;
+
     @include media ($tablet) {
         background: transparent;
         display: inline;
@@ -93,13 +98,17 @@ li.nav-link {
         width: auto;
     }
     a {
-        color: $navigation-color;
+        color: $white;
         display: inline-block;
+        background-color: $purple;
+        padding: 0.5em;
+        width: 100%;
         @include media ($tablet) {
-            padding-right: 1.5em;
+            width: auto;
         }
         &:hover {
-            color: $navigation-color-hover;
+            color: $white;
+            background-color: darken($purple,10%);
             text-decoration: none;
         }
     }
@@ -113,7 +122,8 @@ li.nav-link {
 
 li.active {
     a {
-        color: $black;
+        color: $white;
+        background-color: darken($purple,20%);
     }
 }
 li.more {
