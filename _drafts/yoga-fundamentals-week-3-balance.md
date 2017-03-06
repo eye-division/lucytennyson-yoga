@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yoga fundamentals week 3 - balance
-date: 2017-02-04 08:43:00
+date: 2017-02-17 08:43:00
 author: Lucy Tennyson
 categories:
   - Blog
