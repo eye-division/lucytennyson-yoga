@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yoga fundamentals Week 1
+title: Yoga fundamentals Week 1 - breath
 date: 2017-01-27 08:43:00
 author: Lucy Tennyson
 categories:
