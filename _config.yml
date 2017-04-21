@@ -31,7 +31,7 @@ permalink: pretty
 # Image CDN
 imagecdn:
   staging: "http://ed-lucytennyson-dev.imgix.net"
-  production: "http://ed-lucytennyson.imgix.net"
+  production: "http://ed-lucytennyson-dev.imgix.net"
 
 # Collections Example
 collections:
