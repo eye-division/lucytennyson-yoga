@@ -1,0 +1,13 @@
+---
+layout: post
+title: The value of forward bends
+date: 2016-11-25 08:43:00
+author: Lucy Tennyson
+categories:
+  - Blog
+---
+
+
+<div>&nbsp;</div>
+
+<div><p>Big claims are made for the benefits of the seated forward bend (paschimottanasana), one of the classic poses of yoga, and said to be able to both heal a troubled body and sooth a restless mind. It stretches the back, massaging the internal organs, and is said to work on the adrenal gland, having a calming effect on the nervous system.</p><p>It's usually done near the end of a session, when the hamstrings are relaxed, and the back muscles ready for a deeper stretch.</p><p>A good way to prepare is through a warm up sequence including child/cat/downward dog for instance, and any poses that involve standing forward bending, as well as gentle backbends such as cobra on the floor, a standing forward bend, or a sun salutation sequence.&nbsp;&nbsp;</p><p>But be wary of this seemingly simple posture, especially if you have any kind of back injury or pain. &nbsp;Think of coming forward with a straight back to begin with, encouraging the legs to do the work, and the lower back muscles to only slowly let go. Never force yourself into a forward bend, and if you are stiff, try sitting on a block to tip the pelvis &nbsp;forward to get more lift in the lower back.</p><p>A yoga belt can be looped around the soles of the feet to help keep this length in the body as you hinge forward. &nbsp;If you feel the space under the ribcage shortening, stop, inhale and lift up slightly, and lengthen again. Feel that you are hinging from the top of the legs and that the sternum/chest is leading you forward. Use your breath to help you ease into the posture.</p><p>Often, because of tightness in the backs of the legs, you'll find that you don't go very far forward, and it might feel more like sitting up straight (see image above from the Yoga Basics website). &nbsp;The photos in yoga magazines and websites usually show a practitioner folded right over along the legs &ndash; but this image is far more realistic.</p><p>If your back is fine, you can relax into the pose and let yourself round in the back, and stretch out along the legs. Come out of the posture slowly, and relax on your back. You can follow up with a twist, an inversion and savasana.</p><p>We've been focussing on the back in the last couple of weeks, and including strengthening work as well as stretching.&nbsp; If you want to try the 'hands free warrior sequence' which is great strengthening work for the legs, see the<a href="http://www.yogajournal.com/video/video/upwardly-mobile/">&nbsp;Yoga Journal website.</a></p></div>
