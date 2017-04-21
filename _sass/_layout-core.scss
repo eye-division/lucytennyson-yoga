@@ -176,7 +176,6 @@ pre code.hljs {
     background-color: $white;
     .home, .page {
 
-
         @include media ($tablet) {
             padding: 1em 0;
         }
@@ -189,6 +188,10 @@ pre code.hljs {
     .post-list {
         padding-top: 1em !important;
         @extend %default-ul;
+    }
+    .post-date {
+        color: $medium-gray;
+        font-style: italic;
     }
     .post-meta {
         @include outer-container;
@@ -263,6 +266,7 @@ pre code.hljs {
                 @include span-columns(6);
             }
         }
+
         .share {
             font-weight: bold;
             margin: 0 0 1em 0;
@@ -300,6 +304,7 @@ pre code.hljs {
             }
         }
     }
+
     /*
     *	Pages
     */
