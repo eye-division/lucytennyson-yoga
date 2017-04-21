@@ -2,8 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+main_image_path: /assets/images/lucy-tennyson.jpg
+image_description: Lucy Tennyson
 ---
-
 
 "*The more often we practise bringing our attention back to the present moment through yoga, the more skilled we will become at fully experiencing life as we are living it, and the happier we will be.”*
 

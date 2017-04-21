@@ -9,16 +9,17 @@ exclude:
 # Site settings
 title: Lucy Tennyson
 subtitle: Yoga teacher
-email: support@eyedivision.com
+
 name: Lucy Tennyson
-description:
+description: Web site for Lucy Tennyson's yoga classes in Oxfordshire
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: ""
+url: "http://www.lucytennyson.com/"
 logo:
+email: support@eyedivision.com
 
 # Build settings
 markdown: kramdown
@@ -29,10 +30,8 @@ permalink: pretty
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-eyegallery-dev.imgix.net"
-  #production: "http://ed-eyegallery.imgix.net"
-
-
+  staging: "http://ed-lucytennyson-dev.imgix.net"
+  production: "http://ed-lucytennyson.imgix.net"
 
 # Collections Example
 collections:
