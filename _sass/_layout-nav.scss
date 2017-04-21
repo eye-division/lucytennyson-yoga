@@ -14,7 +14,7 @@
     @include clearfix;
     position: relative;
     background-color: $white;
-    background: url(/assets/images/header-sea.jpg);
+    background: url(/assets/images/header-sea2.jpg);
     background-size: cover;
     background-position: center 60%;
 }
@@ -23,8 +23,8 @@
 .logo {
     padding: 1em;
     display: block;
-    text-shadow: 1px 1px 1px $white;
-    color: darken($purple,20%);
+    text-shadow: 1px 1px 1px $black;
+    color: $white;
     //float: left;
     //height: 6em;
 
