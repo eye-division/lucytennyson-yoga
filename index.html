@@ -18,15 +18,7 @@ layout: default
     </section>
     <section class="post-meta">
       <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        {% if site.jekyll-archives %}
-        <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <span>{{ cat | capitalize }}</span>{% if forloop.last == false %}, {% endif %}
-        {% endif %}
-      {% endfor %}{% endif %}
-      </div>
+
     </section>
   </li>
   {% if forloop.last == false %}
@@ -75,7 +67,7 @@ layout: default
     {% endif %}
   </p>
   <p>
-    <a href="{{ site.baseurl }}/posts">View All Posts by Category</a>
+    <a href="{{ site.baseurl }}/posts">View All Posts</a>
   </p>
 </nav>
 
@@ -86,4 +78,4 @@ layout: default
         <!-- Editor Link to site status -->
         <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
       </div>
-  
+

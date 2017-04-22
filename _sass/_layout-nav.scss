@@ -37,7 +37,9 @@
     &:active,
     &:focus,
     &:hover {
+        color: $white;
         text-decoration: none;
+        text-shadow: 1px 1px 1px $black;
         //color: darken($link-color, 10%);
     }
     &:active,
