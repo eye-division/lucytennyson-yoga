@@ -4,19 +4,19 @@
 
 .navigation {
     margin: 0;
-    @include outer-container;
+    //@include outer-container;
     padding: 0 1em;
     background-color: $white;
+    background: url(/assets/images/header-sea.jpg);
+    background-size: cover;
+    background-position: center 80%;
 }
 // Nav menu
 .navigation-wrapper {
-    //@include outer-container;
+    @include outer-container;
     @include clearfix;
     position: relative;
-    background-color: $white;
-    background: url(/assets/images/header-sea2.jpg);
-    background-size: cover;
-    background-position: center 60%;
+    //background-color: $white;
 }
 
 // logo
