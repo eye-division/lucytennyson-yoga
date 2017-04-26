@@ -11,8 +11,12 @@ layout: default
   <article class="post-content">
 
     {% if page.main_image_path %}
-    <figure class="alignleft">
-        {% include img.html src=page.main_image_path alt=page.image_description  width=240 %}
+    <figure class="alignright">
+        {% if page.image_size == 'small' %}
+          {% include img.html src=page.main_image_path alt=page.image_description  width=180 %}
+        {% else %}
+          {% include img.html src=page.main_image_path alt=page.image_description  width=240 %}
+        {% endif %}
     </figure>
     {% endif %}
     <div class="editable">
