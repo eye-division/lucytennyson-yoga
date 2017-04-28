@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Yoga Fundamentals Week 9 - philosophy
-date: 2017-02-04 08:43:59
+date: 2017-03-25 08:43:00
 author: Lucy Tennyson
-categories: Blog
+categories:
+  - Blog
 ---
+
+
