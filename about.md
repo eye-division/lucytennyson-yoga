@@ -19,5 +19,3 @@ Unlike many other yoga teachers, I didn’t begin with a flexible body, and had 
 It wasn’t teaching, but an interest in finding out more about the philosophical side of yoga that led me to take a Foundation course with [Michael Hutchinson](http://www.twobirdsyoga.com/), accredited by the British Wheel of Yoga, in 2008. A year later I embarked on teacher training with [Camyoga](http://www.camyoga.co.uk/), at Yoga Alliance 200 level. I continue to learn and develop through regularly attending British Wheel training days, and workshops with senior teachers such as Leslie Kaminoff, Peter Blackaby, Liz Lark and Donna Farhi. They all have very different approaches to yoga, some of which I try to reflect in my own teaching.
 
 Before yoga, my main career was in journalism. I also ran the Artweeks festival in Oxfordshire for three years, and enjoy painting and printmaking in my spare time.
-
-Test
