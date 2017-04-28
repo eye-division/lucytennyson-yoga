@@ -23,3 +23,9 @@ I believe this approach chimes with two important concepts in classical yoga. Fi
 Sitting cross legged is an effort-full posture, and better done later on in your practice when you are warm and more flexible. This brings to mind another important concept in yoga known as Ahimsa (non-violence) which includes being kind to yourself.
 
 You can read more about how to sit more comfortably in Sukhasana on [the Yoga Journal website](http://www.yogajournal.com/practice/finding-a-comfortable-seated-cross-legged-position)
+
+Here is a reminder of some of what we practised this week:
+
+![](/uploads/versions/yogblog28april17---x----1788-2492x---.jpg)
+
+&nbsp;
