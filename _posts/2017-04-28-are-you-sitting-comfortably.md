@@ -27,5 +27,3 @@ You can read more about how to sit more comfortably in Sukhasana on [the Yoga Jo
 Here is a reminder of some of what we practised this week:
 
 ![](/uploads/versions/yogblog28april17---x----1788-2492x---.jpg)
-
-&nbsp;
