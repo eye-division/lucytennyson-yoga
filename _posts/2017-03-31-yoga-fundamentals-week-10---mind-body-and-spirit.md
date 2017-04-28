@@ -22,8 +22,8 @@ The concept of OM appears to have first cropped up in the Upanishads, a collecti
 
 Here's how to do it: For 'ahh' relax the jaw. The sound rises from the belly, lips are parted, and the tongue doesn’t touch the palate.
 
-&nbsp; &nbsp; In 'oooh' the lips gently come together as the sound moves from the abdomen into the heart.
+    In 'oooh' the lips gently come together as the sound moves from the abdomen into the heart.
 
-&nbsp; &nbsp; During 'mmm' the tongue floats to the roof of the mouth, and the lips come together to create a buzzing in the head.
+    During 'mmm' the tongue floats to the roof of the mouth, and the lips come together to create a buzzing in the head.
 
-&nbsp; &nbsp; Silence — or om’s 'fourth syllable' — follows while the sound fades into nothing.
+    Silence — or om’s 'fourth syllable' — follows while the sound fades into nothing.
