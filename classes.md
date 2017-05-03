@@ -20,7 +20,7 @@ permalink: /classes/
 
 #### **TUESDAY**
 
-6pm - 7.15pm University of Oxford staff class, 64 Banbury Road, **Oxford.** All staff welcome, please contact me for details.
+6pm - 7.15pm University of Oxford staff class, 64 Banbury Road, **Oxford.** All staff, post-docs and researchers welcome, please contact me for details.
 
 #### **WEDNESDAY**
 
