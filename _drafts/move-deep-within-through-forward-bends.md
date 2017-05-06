@@ -20,7 +20,7 @@ Once you have hinged forward as far as you can go without bending down, then sta
 
 If you are stiff, try coming down with a slight bend in the knees. **Props are your friends.**&nbsp;Use blocks in standing forward bends if your hands don’t reach the floor easily which will help you lengthen the spine.
 
-See if sitting on a yoga block or blanket helps, and use a belt rather than grab and pull on the feet. Above all, **d****on’t force it.**&nbsp;Think about effort and ease. Forward bends are not about how far you can go but rather how deeply you can release.
+For seated forward bends, see if sitting on a yoga block or blanket helps, and use a belt rather than grab and pull on the feet. Above all, **d****on’t force it.**&nbsp;Think about effort and ease. Forward bends are not about how far you can go but rather how deeply you can release.
 
 The sketches below give some tips about how to use the flat back technique.
 
