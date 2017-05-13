@@ -10,11 +10,11 @@ categories:
 
 Our focus this week was on backbends. They increase the mobility of the spine, and help counter rounded shoulders. They help inprove posture, especially if you spend time working at a desk or driving. They're energising and even improve the way we feel.
 
-Healthy spines need to be both strong and flexible – echoing the yoga concepts of effort and ease (Sthira and Sukha). The vertebrae are strong, enabling us to stand upright and protecting sensitive nerves, while the flexibility of ligaments and tendons allow the spine to move in different directions..
+Healthy spines need to be both strong and flexible – echoing the yoga concepts of effort and ease (Sthira and Sukha). The vertebrae are strong, enabling us to stand upright and protecting sensitive nerves, while the flexibility of ligaments and tendons allows the spine to move in different directions.
 
 One thing we can do through yoga is strengthen the deep abdominal muscles that help support the backbone. Engaging the pelvic floor and the associated deep core muscles assists in lifting up and extending the spine, which we do before curving back. This helps prevent compression of the lower back, and encourages and opening up across the front of the chest.
 
-But be sure to warm up first
+**But be sure to warm up first**
 
 Think about moving your spine in different directions,&nbsp; with, for example, cat cow variations, moving bridge, gentle twists and side bends. Move the hips and mobilise the shoulders. Perhaps then move on to some energising sun salutations, as they warm the whole body – but go easy for the first few by keeping to low cobra, and bringing the knees down rather than go into plank.
 
@@ -29,5 +29,7 @@ Try also not to compress the lower back. In camel pose, come to kneeling and fir
 In all full backbends we are working to extend the bend the entire length the spine. This coming week, we might include dhanurasana (bow) which is quite a testing pose - most of us will have a tendency to want to either pull more with the legs or with the arms depending on where we are more flexible in our spine. Doing both together requires a big effort!
 
 A reminder of some the backbends we practised:
+
+![](/uploads/versions/yogablog13may---x----1808-2480x---.jpg)
 
 ![](/uploads/versions/yogablog13may---x----1808-2480x---.jpg)
