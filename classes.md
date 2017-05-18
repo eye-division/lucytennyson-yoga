@@ -5,7 +5,7 @@ permalink: /classes/
 ---
 
 
-#### Summer term starts 24 April
+#### Summer term runs from 24 April - end July 2017, no classes Whitsun week 29 -31 May.
 
 #### **MONDAY**
 
