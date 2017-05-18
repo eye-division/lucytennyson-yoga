@@ -28,6 +28,7 @@ BKS Iyengar said that twists are detoxifying because of the squeeze and soak act
 
 We focussed on kneeling and standing twists this week, starting and ending our practice with some gentle lying twists. We’ll look at a couple of sitting ones this coming week.
 
-Here’s a reminder of some of what we did.[]()
+Here’s a reminder of some of what we did.[]
 
+![](/uploads/versions/yogablog18may---x----1732-2464x---.jpg)
 <br>![](/uploads/versions/yogablog18may---x----1732-2464x---.jpg)
