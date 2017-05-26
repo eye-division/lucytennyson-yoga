@@ -8,9 +8,9 @@ categories:
 ---
 
 
-In  this week's class we explored the simple action of balancing on one leg – and soon discovered don't need to tie ourselves into vertical knots to challenge our stability.
+In&nbsp; this week's class we explored the simple action of balancing on one leg – and soon discovered don't need to tie ourselves into vertical knots to challenge our stability.
 
-We can make it harder just by turning a leg out to one side, or moving the gaze by rotating or lookiing up. Or finally, the greatest challenge, closing the eyes.
+We can make it harder just by turning a leg out to one side, or moving the gaze by rotating or looking up. Or finally, the greatest challenge, closing the eyes.
 
 To manage this task your nervous system has to be on its toes, repeating three key steps: monitoring your position, calculating any necessary corrections, and then directing these adjustments using the muscular-skeletal system.
 
@@ -26,18 +26,18 @@ Taking it to a higher level of the nervous system, emotions also come into play.
 
 Here are some balancing tips when you first start out:
 
-•            Do one-legged balancing poses on a firm, level surface.
+• &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Do one-legged balancing poses on a firm, level surface.
 
-•            It's easier when you aren't tired, or at the beginning of a class.
+• &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; It's easier when you aren't tired, or at the beginning of a class.
 
-•            Keep your gaze gently fixed on one point.
+• &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Keep your gaze gently fixed on one point.
 
-•            Have a wall or chair nearby for support.
+• &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Have a wall or chair nearby for support.
 
-•            Zip up gently and use your core muscles.
+• &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Zip up gently and use your core muscles.
 
-•            Keep the knee of your standing leg slightly bent.
+• &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Keep the knee of your standing leg slightly bent.
 
-•            Put extra weight on the outer edge of your standing foot.
+• &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Put extra weight on the outer edge of your standing foot.
 
 Then as your balance improves, you can cut out these techniques one by one.
