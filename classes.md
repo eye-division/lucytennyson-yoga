@@ -24,8 +24,8 @@ permalink: /classes/
 
 #### **WEDNESDAY**
 
-3.45pm-5pm&nbsp; beginners/gentle yoga class with seated/low intensity options. St Ethelwolds, East St Helen Street, **Abingdon
-<br>Places available this term, newcomers welcome, please email if you would like to know more.**
+3.45pm-5pm&nbsp; beginners/gentle yoga class with seated/low intensity options. St Ethelwolds, East St Helen Street, **Abingdon**
+<br>&nbsp;
 
-5.45pm-7pm After work stretch out and relax, a lovely way to unwind after the stress of the day with a hatha flow class.&nbsp; All levels welcome. **Abingdon.
-<br>Places limited to 8, if you are new to the class please email first to book a place.**
+5.45pm-7pm After work stretch out and relax, a lovely way to unwind after the stress of the day with a hatha flow class.&nbsp; All levels welcome. **Abingdon.**
+<br>&nbsp;
