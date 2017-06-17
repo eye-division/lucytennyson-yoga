@@ -26,4 +26,6 @@ Likewise with headstand, just practise placing the head on the floor, and experi
 
 It pays to be patient in your approach, and never persist if you experience any kind of discomfort or pain in the neck. &nbsp;Restorative poses such as Viparita Karani (legs-up-the-wall pose) and a supported Setu Bandha (bridge) will give you most of the benefits of head and shoulder stand, without stressing[]() the cervical spine.
 
-[This website](https://www.ekhartyoga.com/articles/all-about-yoga-inversions) offers some useful information about inversions with links through to specific poses.
+[This website](https://www.ekhartyoga.com/articles/all-about-yoga-inversions) [https://www.ekhartyoga.com/articles/all-about-yoga-inversions](https://www.ekhartyoga.com/articles/all-about-yoga-inversions)
+
+offers some useful information about inversions with links through to specific poses.
