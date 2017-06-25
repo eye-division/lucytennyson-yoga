@@ -29,5 +29,3 @@ Yoga has been around a long time, and fashions will come and go. No doubt, someo
 Ultimately, it's your choice: If you are young, fit and not carrying excess weight then hot yoga may suit you very well. But, if like me, you struggled in the last week to keep cool, then perhaps it's not worth the risk.
 
 And, if you think bunching together with a lot of hot and sweaty people in a gym a daft idea, how about this for craziness … [beer yoga](http://www.bbc.co.uk/news/av/world-asia-39711513/have-you-got-the-bottle-for-beer-yoga)
-
-&nbsp;
