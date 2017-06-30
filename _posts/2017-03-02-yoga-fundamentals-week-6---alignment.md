@@ -35,3 +35,5 @@ But, if you aren't super flexible, are a beginner, or have an unstable sacro ili
 The key to this posture is stay anchored in your back leg as you reach your front arm out to the side, which lengthens the spine to elongate the spine out of the pelvis. When you can’t reach your arm forward anymore, simply rest your hand wherever it comfortably lands on your leg (even if no further down than the knee). Pay attention here to your tendency to reach the hand further down your leg – remember yoga is about acceptance, letting go and not being competitive.
 
 Below is a flowing cat sequence which we practised this week. There are different variations, and this is one taught at a workshop by yoga therapy teacher Nikki Jackson. First warm up gently, and make sure you have good padding for the knees - it requires good alignment, as well as linking the postures together with the breath (vinyasa) - which will be the topic of next week's class.
+
+![](/uploads/versions/cat---x----1788-2492x---.jpg)
