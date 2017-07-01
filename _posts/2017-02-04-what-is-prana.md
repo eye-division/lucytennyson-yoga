@@ -7,7 +7,7 @@ categories: Blog
 ---
 
 
-Yoga blog 20 October 2014
+&nbsp;
 
 In some yoga classes, you might hear the teacher talk about 'prana', often in conjunction with thinking about or using the breath. This might be in terms such as 'breathing in prana', or 'thinking about the prana (energy) flowing through the body'. In terms of a working definition, prana is considered to be the life force, or universal energy. However, it is not the same thing as oxygen, or air, as it can be found everywhere, and throughout our bodies. There is a similar concept, known as Chi, used in acupuncture and other Eastern traditions
 
@@ -17,7 +17,7 @@ We all know about the breath, and, of course, we breathe from the moment of birt
 
 Do I need to believe in prana when I do yoga?
 
-Most of us have probably very little idea of what prana is, but does that matter? In my view, we don't need to believe or not believe, we just need to feel what happens when we practise. When I breathe in, in a certain way, or move my body through a sequence of yoga movements, my levels of energy – and well-being – &nbsp;can change. Whether it's the result of the movement of prana, or merely the complex interactions of the biological systems of the body ... well, who knows?
+Most of us have probably very little idea of what prana is, but does that matter? In my view, we don't need to believe or not believe, we just need to feel what happens when we practise. When I breathe in, in a certain way, or move my body through a sequence of yoga movements, my levels of energy – and well-being – &nbsp;can change. Whether it's the result of the movement of prana, or merely the complex interactions of the biological systems of the body … well, who knows?
 
 You certainly don't need to believe in prana as conceived of in Indian (and Buddhist) philosophy when you go to a yoga class –&nbsp; all I would suggest is that you keep an open mind.
 
