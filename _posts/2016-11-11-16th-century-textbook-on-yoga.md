@@ -14,10 +14,12 @@ It details the techniques of the main practices of hatha yoga: seated asana (pos
 
 Modern yoga includes versions of many of the asanas described in the Hatha Yoga Pradipika, practised so many centuries ago by Indian yogis. These are all seated, originally intended to prepare the body for long periods of meditation.
 
-###  How to practise cow faced pose
+### &nbsp;How to practise cow faced pose
 
- A good description of how to safely practise this posture can be found on the Yoga Journal [website.](http://www.yogajournal.com/pose/cow-face-pose/) Take care if you have any shoulder or knee issues, and use blocks to sit on, unless you are very flexible in the hips. Be sure to prepare with some gentle stretches and warm up sequences.
+&nbsp;A good description of how to safely practise this posture can be found on the Yoga Journal&nbsp;[website.](http://www.yogajournal.com/pose/cow-face-pose/)&nbsp;Take care if you have any shoulder or knee issues, and use blocks to sit on, unless you are very flexible in the hips. Be sure to prepare with some gentle stretches and warm up sequences.
 
 Pose of the month Gomukhasana or cow faced posture from the Hatha Yoga Pradipika
+
+![](/uploads/versions/cow---x----2444-2836x---.jpg)
 
 ![](http://www.lucytennyson.com/userfiles/yogablog10Nov.jpg)
