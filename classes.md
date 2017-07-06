@@ -5,7 +5,7 @@ permalink: /classes/
 ---
 
 
-#### Classes run through July and end on Wednesday 2nd August. Autumn term starts Monday September 11th.
+#### Classes run through July and end on Wednesday 2nd August. Autumn term starts Monday September 4th. I will be launching a new Wednesday evening class at Larkmead School at 7.30pm, please email me if you are interested in joining this new class (beginners/new students/returners, all welcome).
 
 #### **MONDAY**
 
@@ -24,7 +24,7 @@ permalink: /classes/
 
 #### **WEDNESDAY**
 
-3.45pm-5pm&nbsp; beginners/gentle yoga class with seated/low intensity options. St Ethelwolds, East St Helen Street, **Abingdon**
+3.45pm-5pm&nbsp; beginners/gentle yoga class with seated/low intensity options. St Ethelwolds, East St Helen Street, **Abingdon&nbsp; (no class on Wed 26 July)**
 <br>&nbsp;
 
 5.45pm-7pm After work stretch out and relax, a lovely way to unwind after the stress of the day with a hatha flow class.&nbsp; All levels welcome. **Abingdon.**
