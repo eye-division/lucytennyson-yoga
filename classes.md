@@ -5,7 +5,7 @@ permalink: /classes/
 ---
 
 
-#### Classes run through July and end on Wednesday 2nd August. Autumn term starts Monday September 4th. I will be launching a new Wednesday evening class at Larkmead School at 7.30pm, please email me if you are interested in joining this new class (beginners/new students/returners, all welcome).
+#### Classes run through July and end on Wednesday 2nd August. Autumn term starts Monday September 11th. I will be launching a new Wednesday evening class at Larkmead School at 7.30pm, please email me if you are interested in joining this new class (beginners/very stiff/returners, and anyone interested in trying yoga..... &nbsp;all welcome).
 
 #### **MONDAY**
 
