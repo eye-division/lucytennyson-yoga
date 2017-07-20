@@ -34,3 +34,9 @@ Benefits
 * &nbsp; &nbsp; Improves digestion
 
 If you feel like trying this in a chair at work or the dining table, do let me know how you get on!
+
+*The sketches below are a reminder (not a guide) to some of what we practised in class this week*
+
+![](/uploads/versions/yogablog21july---x----1912-2460x---.jpg)
+
+&nbsp;
