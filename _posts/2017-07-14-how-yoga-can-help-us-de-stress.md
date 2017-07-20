@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How yoga can help us de-stress
-date: 2017-07-07 08:43:00
+date: 2017-07-14 08:43:00
 author: Lucy Tennyson
 categories:
   - Blog
@@ -20,6 +20,6 @@ Adrenaline increases your heart rate, elevates your blood pressure and boosts en
 
 It is thought that long term stress can cause a host of health issues, including immune system breakdown, depression, heart disease and sleep problems. In today's modern world, we need to find ways of dealing with the stress response.
 
-Yoga, along with other measures, such as exercise and changes to lifestyle, can play a part in keeping us healthy.&nbsp; We did a stretchy session this week, along with some strong asanas, followed by a breathing exercise such as alternate nostril breathing. Please find a reminder below.
+Yoga, along with other measures, such as exercise and changes to lifestyle, can play a part in keeping us healthy.  We did a stretchy session this week, along with some strong asanas, followed by a breathing exercise such as alternate nostril breathing. Please find a reminder below.
 
 ![](/uploads/versions/yogablog13july---x----1744-2468x---.jpg)
