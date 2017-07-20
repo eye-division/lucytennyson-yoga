@@ -10,7 +10,7 @@ categories:
 
 The psoas (or more correctly the iliopsoas) is a long muscle running from the lower spine down through the pelvic area to the thigh bone. It's involved in flexing the hip joint, and hence key to fluid walking and running. It is also very deep seated within the body and vulnerable to becoming tight, and holding onto tension when the body is under stress.
 
-One simple way of relaxing this important muscle from the 'inside out' is lying in the constructive rest position (on your bank with the knees bent and feet flat) as we often do at the start of class. After a while, hug in the knees, then hold one to the chest while gently stretching the other along the floor.
+One simple way of relaxing this important muscle from the 'inside out' is lying in the constructive rest position (on your back with the knees bent and feet flat) as we often do at the start of class. After a while, hug in the knees, then hold one knee to the chest while gently stretching the other leg out along the floor, releasing as slowly as you can.
 
 Two postures that both work and stretch the psoas which we included this week were:
 
