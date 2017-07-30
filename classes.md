@@ -5,7 +5,9 @@ permalink: /classes/
 ---
 
 
-#### Classes run through July and end on Wednesday 2nd August. Autumn term starts Monday September 11th. I will be launching a new Wednesday evening class at Larkmead School at 7.30pm, please email me if you are interested in joining this new class (beginners/very stiff/returners, and anyone interested in trying yoga..... &nbsp;all welcome).
+#### Classes run through July and end on Monday 7th August. Autumn term starts Monday September 11th.
+
+#### *On September 13th I will be launching a new Wednesday evening class at Larkmead School at 7.30pm, please email me if you are interested in joining this new class (beginners/very stiff people/returners to yoga, and anyone interested in giving it a try ….. &nbsp;all welcome).*
 
 #### **MONDAY**
 
@@ -28,4 +30,5 @@ permalink: /classes/
 <br>&nbsp;
 
 5.45pm-7pm After work stretch out and relax, a lovely way to unwind after the stress of the day with a hatha flow class.&nbsp; All levels welcome. **Abingdon.**
+
 <br>&nbsp;
