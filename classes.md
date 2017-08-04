@@ -29,6 +29,6 @@ permalink: /classes/
 3.15pm-4.30pm&nbsp; beginners/slow yoga class with seated/low intensity options. St Ethelwolds, East St Helen Street, **Abingdon.&nbsp;***My most gentle class of the week*
 <br>5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class.&nbsp; St Ethelwolds, East St Helen Street, **Abingdon.&nbsp;***All levels, incl beginners.*
 
-7.30pm-8.45pm New beginners class. All levels of fitness, older people, men and younger people welcome. More experienced students also welcome, especially those looking for a deep stretch and chance to relax after work. Performance Studio, Larkmead School,&nbsp; **Abingdon.&nbsp;***Come and be part of a friendly new group.*
+7.30pm-8.45pm **New** beginners class. All levels of fitness, older people, men and younger people welcome. More experienced students also welcome, especially those looking for a deep stretch and chance to relax after work. Performance Studio, Larkmead School,&nbsp; **Abingdon.&nbsp;***Come and be part of a friendly new group.*
 
 <br>&nbsp;
