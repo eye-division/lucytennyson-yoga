@@ -13,7 +13,3 @@ It's been a fabulous term of yoga with all of you, and I reluctantly bring my te
 But, please find below several sequences (starting with a warm up and working up to a full sun salutation) taken from my classes which I hope will give you encouragement to get that mat out!
 
 ![](/uploads/versions/yogablog3aug1-2---x----1551-1420x---.jpg)![](/uploads/versions/yogablog3aug2---x----1587-1936x---.jpg)![](/uploads/versions/yogablog3aug3---x----1572-1906x---.jpg)
-
-&nbsp;
-
-&nbsp;
