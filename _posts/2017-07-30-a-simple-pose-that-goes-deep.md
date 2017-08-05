@@ -16,7 +16,7 @@ The benefits of hero pose aren’t immediately obvious, so don’t be tempted to
 
 It is also one of the classical seated postures for meditation and breath awareness. When your body is properly supported, you can sit in virasana for several minutes at a time, becoming aware of the natural curves of your spine, the contours of your chest, the movement of your breath, and other internal sensations. In essence, it allows you to bring your intention inwards, which lies at the heart of yoga.
 
-Take care with your knees, and don’t stay in the posture if you experience any pain. When you’re ready to come out, rock forward on your knees and place your hands on the floor in front of you. Slowly stretch your legs back behind you one at a time.  A good follow on pose is downward dog.
+Take care with your knees, and don’t stay in the posture if you experience any pain. When you’re ready to come out, rock forward on your knees and place your hands on the floor in front of you. Slowly stretch your legs back behind you one at a time. &nbsp;A good follow on pose is downward dog.
 
 A reminder of some of this week’s class below:
 
