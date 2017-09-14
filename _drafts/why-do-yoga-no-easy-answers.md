@@ -20,4 +20,6 @@ In contrast, the yoga that evolved in India embraced far more, including philoso
 
 So, reflecting on YOUR practice, that’s just it – it’s yours, you are unique and you are your own healer. A teacher can offer direction, but it is down to you the student to be an active participant, learning to listen to your body and what it needs.
 
-The sketches below are a reminder of some of what we practised in class this week. I look forward to working with you over the coming ter
+The sketches below are a reminder of some of what we practised in class this week. I look forward to working with you over the coming term.
+
+The sketches below aim to act as a reminder (not a guide) to some of what we did in class this week.
