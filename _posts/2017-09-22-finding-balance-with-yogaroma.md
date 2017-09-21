@@ -22,10 +22,8 @@ Before our final relaxation, we did some balances, which you might like to try a
 
 Another soothing and meditative balance to try is heel to toe walking up and back down the centre of your mat. The slower and more stable you are the better.
 
-If you want to find out more about aromatherapy, please contact Ad&eacute;la, who made the Balance Me spray I used in class, email [ahadelle@gmail.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,104,97,100,101,108,108,101,64,103,109,97,105,108,46,99,111,109)))
+If you want to find out more about aromatherapy, please contact Adéla, who made the Balance Me spray I used in class, email [ahadelle@gmail.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,104,97,100,101,108,108,101,64,103,109,97,105,108,46,99,111,109)))
 
 Below is a reminder of the balances we practised this week.
 
 ![](/uploads/versions/yogablog21sept---x----1740-2468x---.jpg)
-
-&nbsp;
