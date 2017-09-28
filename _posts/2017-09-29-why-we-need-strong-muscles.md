@@ -8,7 +8,7 @@ categories:
 ---
 
 
-Most of us come to&nbsp; yoga to stretch and become more flexible -&nbsp; not realising it's just as important to tone up and strengthen our muscles as well.
+Most of us come to  yoga to stretch and become more flexible -  not realising it's just as important to tone up and strengthen our muscles as well.
 
 We need strong and healthy muscles to move; to lift and carry things, or do exercise. It's just the same when we're doing yoga; we want these muscles to be strong enough to support the body and joints when we move into and out of postures.
 
