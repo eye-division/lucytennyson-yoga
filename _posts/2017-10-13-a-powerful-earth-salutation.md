@@ -19,3 +19,5 @@ Dru is a modern (about 30 years old) school which has its roots in hatha yoga an
 One of its aims is to help you focus the mind (get your head out of the clouds), and become present in the given moment. It can be calming on one of those days where your mind races. You can find a demonstration by a Dru yoga teacher on [You Tube](https://www.youtube.com/watch?v=IRfS0wgZgvI)
 
 A reminder of some of the other postures I included this week:
+
+![](/uploads/versions/yogablog13oct---x----1744-2468x---.jpg)
