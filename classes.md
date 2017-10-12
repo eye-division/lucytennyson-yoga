@@ -5,7 +5,7 @@ permalink: /classes/
 ---
 
 
-#### Autumn term runs until 18 December 2017 with a half term break 23-27 October.
+#### Autumn term runs until 18 December 2017 with a half term break 23-27 October. We resume on 30 November and run for eight weeks up to Christmas.
 
 #### **MONDAY**
 
@@ -21,7 +21,7 @@ permalink: /classes/
 
 #### **WEDNESDAY**
 
-3.15pm-4.30pm&nbsp; beginners/slow yoga class with seated/low intensity options. [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***My most gentle class of the week, small group of up to nine.*<br>5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels, incl beginners. Currently full, email me to enquire.*
+3.15pm-4.30pm&nbsp; beginners/slow yoga class with seated/low intensity options. [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***My most gentle class of the week, small group of up to nine. Please email to see if there is a space.*<br>5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels, incl beginners. Currently full, email me to go on the waiting list.*
 
 7.30pm-8.45pm **New** beginners class. All levels of fitness, older people, men and younger people welcome. More experienced students also welcome, especially those looking for a deep stretch and chance to relax after work. Performance Studio, Larkmead School,&nbsp; **Abingdon.&nbsp;***Come and be part of a friendly new group: large studio space.*
 
