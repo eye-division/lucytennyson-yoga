@@ -14,7 +14,7 @@ I'm sure the ancient yogis of India weren't doing it, but face yoga is one of th
 
 Danille Collins has been running open workshops (see photo below) for the last few years at the Om Yoga Show in London, an event getting bigger in terms of marketing every year and now in its 12th year).
 
-I joined in last week, and had lots of fun - if we've time, I'll include a few of her routines in class this week. And if you want to practise in privacy in front of the mirror at home, here's a [clip on You Tube](https://www.youtube.com/watch?v=Vb_xcKcYs0Q)&nbsp;
+I joined in last week, and had lots of fun - if we've time, I'll include a few of her routines in class this week. And if you want to practise in privacy in front of the mirror at home, here's a [clip on You Tube](https://www.youtube.com/watch?v=Vb_xcKcYs0Q)
 
 There are endless debates in yoga and fitness circles over the safety of some aspects of yoga. And you'd think pulling a few faces would be a fairly risk free activity
 
