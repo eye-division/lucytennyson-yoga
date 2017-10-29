@@ -5,15 +5,13 @@ permalink: /classes/
 ---
 
 
-#### Autumn term runs until 18 December 2017 with a half term break 23-27 October. We resume on 30 November and run for eight weeks up to Christmas.
+#### The Autumn term runs for eight weeks from half term until 18 December 2017. We resume after Christmas on 8 January 2018.
 
 #### **MONDAY**
 
-10am-11.15am<br>Gentle stretching, yoga and movement to music, with seated options. Age UK class, **Radley**. Please contact me for details.
+12pm -1.15pm Friendly daytime yoga class for all. Beginners welcome / all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. *Drop in welcome.*
 
-12pm -1.15pm<br>Friendly daytime yoga class for all. Beginners welcome / all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. *Drop in welcome.*
-
-7.30pm - 9pm<br>Candlelit evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and renourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. *Drop in and beginners welcome.*
+7.30pm - 9pm Candlelit evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and renourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. *Drop in and beginners welcome.*
 
 #### **TUESDAY**
 
