@@ -5,7 +5,7 @@ permalink: /classes/
 ---
 
 
-#### The Autumn term runs for eight weeks from half term until 18 December 2017. We resume after Christmas on 8 January 2018.
+#### The Autumn term runs for eight weeks from half term until 20 December 2017. We resume after Christmas on 8 January 2018.
 
 #### **MONDAY**
 
