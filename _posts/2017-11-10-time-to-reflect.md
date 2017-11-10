@@ -8,13 +8,13 @@ categories:
 ---
 
 
-When I was driving home after my teaching my last class of the week on a cold and clear night, the moon was rising, hanging on its side over Abingdon. It was beautiful and strangely calming, and I wondered how many other people were looking up and feeling the same as me. &nbsp;
+When I was driving home after my teaching my last class of the week on a cold and clear night, the moon was rising, hanging on its side over Abingdon. It was beautiful and strangely calming, and I wondered how many other people were looking up and feeling the same as me.
 
-I took sneaky glances up to the night sky as I headed to the A34 where the headlights of the thundering lorries and cars then took up all my attention; I forgot all about the moon, &nbsp;until the following morning when I was reading something about yoga, and&nbsp; its image suddenly came back to me. &nbsp;
+I took sneaky glances up to the night sky as I headed to the A34 where the headlights of the thundering lorries and cars then took up all my attention; I forgot all about the moon,  until the following morning when I was reading something about yoga, and  its image suddenly came back to me.
 
 As technology continues to infiltrate our lives, and we become more disconnected from the natural world around us, these moments when we find ourselves lost in nature are becoming increasingly rare.
 
-Perhaps we need to give ourselves a little bit of time each day to appreciate something out there - take a walk in the park, a garden or by the river. We can draw a lot of peacefulness and inspiration from mountains, trees, and nature - and these things are all free. &nbsp;
+Perhaps we need to give ourselves a little bit of time each day to appreciate something out there - take a walk in the park, a garden or by the river. We can draw a lot of peacefulness and inspiration from mountains, trees, and nature - and these things are all free.
 
 There is another step, too - we can try to hold onto them for images for contemplation, or relaxation at the end of a yoga session. Most of us need moments of calm, or even meditation, and I know for myself I seldom give myself enough time for them.
 
