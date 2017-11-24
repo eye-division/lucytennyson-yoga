@@ -70,3 +70,5 @@ Stay for 30 seconds breathing deeply if you can, but come down any time you need
 &nbsp;
 
 Take a few breaths, then turn the feet to the left and repeat for the same length on the other side. When you're finished return to Tadasana. You can follow up with warrior 2, or a wide legged standing forward bend, before coming down to rest in child.
+
+![](/uploads/versions/yogawarriors---x----363-139x---.jpg)
