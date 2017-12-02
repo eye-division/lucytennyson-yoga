@@ -12,7 +12,7 @@ Ujjayi (translated as "victorious") breathing can be both energising and relaxin
 
 The sound of Ujjayi is created by gently constricting the opening of the throat to create some resistance to the passage of air. Gently pulling the breath in on inhalation and gently pushing the breath out on exhalation against this resistance creates a well-modulated and soothing sound—something like the sound of ocean waves rolling in and out.
 
-One way to get in the mood for a yoga practice is to sit on the floor, cross-legged if that is comfortable for you, or on two or three blocks (as we did this week). &nbsp;
+One way to get in the mood for a yoga practice is to sit on the floor, cross-legged if that is comfortable for you, or on two or three blocks (as we did this week), and do at least 10 rounds&nbsp;&nbsp;
 
 If you are new to the idea, try these steps:
 
