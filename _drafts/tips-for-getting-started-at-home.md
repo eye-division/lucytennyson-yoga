@@ -27,25 +27,16 @@ Leave your mat in a quiet place where you can practice
 
 Use music if you like, make it as enjoyable as possible.
 
-&nbsp;
-
 What to do:
 
 I suggest starting with some standing warm ups in this colder weather.
 
-The four part twist/forward and backward steps/squats/ moving warrior 1
-
-The four part leg raises: inhale knee and arms up/exhale knee out/ up/&nbsp; both down
-
-Child/cat/dog moves on your mat
-
-Some work for the core/abdominals (eg leg raises)
-
-Backbends on your tummy
-
-Rest in child -&nbsp; then a few minutes to relax, or add in some more postures.
-
-&nbsp;
+* The four part twist/forward and backward steps/squats/ moving warrior 1
+* The four part leg raises: inhale knee and arms up/exhale knee out/ up/&nbsp; both down
+* Child/cat/dog moves on your mat
+* Some work for the core/abdominals (eg leg raises)
+* Backbends on your tummy
+* Rest in child -&nbsp; then a few minutes to relax, or add in some more postures.
 
 The wall can be used too, see the sketches below to remind you of this week's class.
 
