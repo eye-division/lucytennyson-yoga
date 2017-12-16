@@ -5,7 +5,13 @@ permalink: /classes/
 ---
 
 
-#### The Autumn term runs for eight weeks from half term until 20 December 2017. We resume after Christmas on 8 January 2018.
+#### The next term runs from 8 January - 21 March 2018.
+
+You can drop into any of my classes, or start at any time. Note I am away until 4 February but please come along as two yoga teachers will be there in my place.
+
+&nbsp;Sheila Cameron will be taking my Monday Saturn and Wednesday St Ethelwolds classes. She can be contacted on 01865 558212 or [email](javascript:void(location.href='mailto:'+String.fromCharCode(115,104,101,105,108,97,99,120,51,51,51,64,103,109,97,105,108,46,99,111,109)))&nbsp;sheilacx333@gmail.com
+
+Harriet will be taking my Monday and Wednesday Larkmead School classes at 7.30pm, contact 07703803722 [email&nbsp;](javascript:void(location.href='mailto:'+String.fromCharCode(104,97,114,114,105,101,116,99,97,114,116,101,114,49,64,103,109,97,105,108,46,99,111,109)))harrietcarter1@gmail.com
 
 #### **MONDAY**
 
