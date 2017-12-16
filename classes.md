@@ -7,7 +7,7 @@ permalink: /classes/
 
 #### The next term runs from 8 January - 21 March 2018.
 
-You can drop into any of my classes, or start at any time. Note I am away until 4 February but please come along as two yoga teachers will be there in my place. Feel free to email me using the contact page on this website.
+You can drop into any of my classes, or start at any time. Note I am away until 4 February but please come along as &nbsp;yoga teachers will be there in my place. Feel free to email me using the contact page on this website.
 
 &nbsp;Sheila Cameron will be taking my Monday Saturn and Wednesday St Ethelwolds classes. She can be contacted on 01865 558212 or [email](javascript:void(location.href='mailto:'+String.fromCharCode(115,104,101,105,108,97,99,120,51,51,51,64,103,109,97,105,108,46,99,111,109)))&nbsp;sheilacx333@gmail.com
 
