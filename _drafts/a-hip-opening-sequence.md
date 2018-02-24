@@ -24,3 +24,5 @@ This week, we worked first mobilising the joints and warming the muscles, and th
 &nbsp;
 
 Hip opening postures to try include lunges, standing warrior poses, cow face pose and pigeon.&nbsp; Here is a reminder of some of this week's sequence. Don't forget to warm down afterwards with seated twists and lying down knee hugs and happy baby.
+
+![](/uploads/versions/yogablog24feb---x----1752-2468x---.jpg)
