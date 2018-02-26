@@ -22,6 +22,6 @@ You can drop into any of my classes, or start at any time during the term, and b
 
 5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels.*
 
-7.30pm-8.45pm **Focus on beginners**&nbsp;class. All levels of fitness, older people, men and younger people welcome. More experienced students also, especially those looking for a deep stretch and chance to relax after work. Performance Studio, Larkmead School,&nbsp; **Abingdon.&nbsp;***Come and be part of a friendly new group: large studio space.*
+7.30pm-8.45pm Yoga for all: All welcome, older people, men and younger people, and beginners. More experienced students too, especially those looking for a deeper focus and chance to relax after work. Performance Studio, Larkmead School,&nbsp; **Abingdon.&nbsp;***Come and be part of a friendly group: large studio space.*
 
 <br>&nbsp;
