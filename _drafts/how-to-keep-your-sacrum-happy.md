@@ -7,7 +7,7 @@ categories:
   - Blog
 ---
 
-How to keep your sacrum happy
+&nbsp;
 
 &nbsp;
 
@@ -21,4 +21,6 @@ In this week's class I included a few of a sequnce of postures aimed at strength
 
 The sketches below are a reminder of my class, including gate pose, a demanding side bend. Make sure you are thoroughly warmed up before practising at home, and follow with a symetrical pose such as a gentle forward bend or lying in supported bridge.
 
-![](/uploads/versions/yogablog2march---x----1736-2588x---.jpg)
+![](/uploads/versions/yogablog2march-1---x----1736-2588x---.jpg)
+
+![](/uploads/versions/yogablog2march2---x----1589-2376x---.jpg)
