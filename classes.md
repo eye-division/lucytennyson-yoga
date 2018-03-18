@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### The next term runs from 8 January - 21 March 2018.
+#### The current term ends on 21 March, and the next term starts on Monday 9 April 2018.
 
 You can drop into any of my classes, or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in. I offer a pass for the term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if in full-time education and they come along with you.
 
