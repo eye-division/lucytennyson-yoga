@@ -7,9 +7,7 @@ categories:
   - Blog
 ---
 
-&nbsp;
-
-Love them or hate them, backbends&nbsp; elicit a strong response.&nbsp; We often think of forward bends, or standing postures when we start practising yoga at home, but seldom opt for a backbend.
+Love them or hate them, backbends  elicit a strong response.  We often think of forward bends, or standing postures when we start practising yoga at home, but seldom opt for a backbend.
 
 They have many benefits, but they should be approach with caution, as are less used to using our back muscles. Backbends open the front of the chest, build strength and stamina, and can help improve mood and energy levels.
 
