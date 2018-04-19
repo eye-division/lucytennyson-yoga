@@ -15,7 +15,7 @@ The sound of Ujjayi is created by gently constricting the opening of the throat 
 
 The key to Ujaii breathing is relaxing, and making just enough effort to produce a pleasing sound, but not so much force it begins to grate. To get in the mood, you can try cupping the ears first and listening to the sound in your throat as you breathe in and out.
 
-Once you can make a similar sound without the ears covered lying down or sitting, then you can try&nbsp; and use Ujaii with the inhale and exhale in postures such as cat and downward dog.
+Once you can make a similar sound without the ears covered lying down or sitting, then you can try  and use Ujaii with the inhale and exhale in postures such as cat and downward dog.
 
 Below you will find some reminders of our yoga class this week. After a standing warm up sequence we came to the floor to practice ujaii breath, and then we tried using it with a sequence that included cat and downward dog.
 
