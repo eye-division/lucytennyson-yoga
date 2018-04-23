@@ -17,7 +17,7 @@ description: Web site for Lucy Tennyson's yoga classes in Oxfordshire
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.lucytennyson.com/"
+url: "https://www.lucytennyson.com/"
 logo:
 email: support@eyedivision.com
 
@@ -30,8 +30,8 @@ permalink: pretty
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-lucytennyson-dev.imgix.net"
-  production: "http://ed-lucytennyson-dev.imgix.net"
+  staging: "https://ed-lucytennyson-dev.imgix.net"
+  production: "https://ed-lucytennyson-dev.imgix.net"
 
 # Collections Example
 collections:
