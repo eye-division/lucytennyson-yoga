@@ -13,7 +13,7 @@ After a warm up sequence that includes plenty of stretches for the legs in downw
 
 Stand tall and steady with both legs straight, feeling your feet anchoring you into the earth and a grounding action rebound upward through your core. Feel your spine lengthen up toward the sky.
 
-Before you begin to fold forward, place your hands on your hips and check your pelvis is level.&nbsp; Keeping the legs straight and stable, hinge forward with a straight back, keeping your gaze straight ahead and the spine long, even, and steady.
+Before you begin to fold forward, place your hands on your hips and check your pelvis is level.&nbsp; Then, keeping the legs straight and stable, hinge forward with a straight back, keeping your gaze straight ahead and the spine long, even, and steady.
 
 Pause here before reaching your hands toward the blocks. If this forces your shoulders to slouch or your spine to round, then return the hands onto the hips.&nbsp; If you are able to reach the blocks without rounding your spine, start to move the chest towards your thigh.&nbsp; After a few deep breaths relax down into the full pose.
 
