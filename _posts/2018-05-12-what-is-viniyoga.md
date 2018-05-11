@@ -17,7 +17,7 @@ Desikachar died in August 2016, and for a time the KYM was led by his son Kausth
 
 Followers in the west in this tradition include Gary Kraftsow, the founder of the American Viniyoga Institute, Leslie Kaminoff, founder of the Breathing Project in New York and co-author of one of the best selling yoga books Yoga Anatomy, and Paul Harvey in the UK.
 
-A viniyoga style practice usually includes asana, pranayama, chanting, and meditation, and its more gentle approach has been designed to make yoga available to people with physical limitations, whether through injury, illness, or age. It is usually quite flowing and soft,&nbsp; but is not exclusively so. There is a strong focus on use of the breath, as well as alignment, and poses are often held for a consistent number of breaths with rest in between.
+A viniyoga style practice usually includes asana, pranayama, chanting, and meditation, and its more gentle approach has been designed to make yoga available to people with physical limitations, whether through injury, illness, or age. It is usually quite flowing and soft,  but is not exclusively so. There is a strong focus on use of the breath, as well as alignment, and poses are often held for a consistent number of breaths with rest in between.
 
 For a reminder of our sequences this week, please see the sketches below
 
