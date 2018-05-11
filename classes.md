@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### The summer term starts on Monday 9 April 2018.
+#### The summer term runs until the end of July. There will be a one week break for Whitsun half term 28 May-1 June.
 
 You can drop into any of my classes, or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in and I offer a pass for the term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if in full-time education and they come along with you.
 
