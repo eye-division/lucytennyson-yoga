@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to stretch tight hip muscles
+title: What does being 'good' at yoga mean"
 date: 2018-05-19 08:43:00
 author: Lucy Tennyson
 categories:
@@ -9,6 +9,6 @@ categories:
 
 Text goes here
 
-&nbsp;
+ 
 
 ![](/uploads/yogablog18may-2.jpg)
