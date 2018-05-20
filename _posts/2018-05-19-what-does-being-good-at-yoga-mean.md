@@ -15,7 +15,7 @@ My approach to teaching is to try and create safe and supportive classes so ever
 
 Of course, &nbsp;we want to progress our yoga and feel we are learning and improving, and so benefitting our health and well being. But it really doesn’t matter how far you can stretch, or whether &nbsp;you can get into every pose. I always offer adaptions and alternatives - including stopping and resting! That's my way of teaching - &nbsp;other styles of yoga have been developed in recent years that are fast paced and probably better suited to the young, fit and bendy - even though they say open to all.
 
-We will inevitably compare ourselves to others in class, that’s human nature. But the challenge &nbsp;is a greater one than being good at yoga - it’s not to judge yourself, and others, and feel not good enough.
+We will inevitably compare ourselves to others in class, that’s human nature. But the challenge &nbsp;is a greater one than being good at yoga - it’s not to judge yourself, and others, and never feel not good enough.
 
 Below are some notes on this week's class:
 
