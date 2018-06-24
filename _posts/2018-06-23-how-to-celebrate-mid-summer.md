@@ -15,7 +15,7 @@ The 67-year-old leader travelled to Dehradun in the Indian state Uttarakhand hom
 
 https://edition.cnn.com/2018/06/21/health/india-international-yoga-day/index.html
 
-Surya Namaskar, the Sun Salutation, is a flowing sequence linking several moves such as down dog and cobra or up dog. I tend to agree with academic Mark Singleton whose research has led him to believe that the sun salutation is relatively a modern practice that developed in the early 20th century. Some scholars attribute the modern practice to &nbsp;Krishnamacharya teachings, specifically his student K. Pattabhi Jois who developed the Ashtanga style of yoga.
+Surya Namaskar, the Sun Salutation, is a flowing sequence linking several moves such as down dog and cobra or up dog. I tend to agree with academic Mark Singleton whose research has led him to believe that the sun salutation is relatively a modern practice that developed in the early 20th century. Some scholars attribute the modern practice to  Krishnamacharya teachings, specifically his student K. Pattabhi Jois who developed the Ashtanga style of yoga.
 
 There are plenty of variations of this sequence and we’ll carry on with some gentle and not so gentle ones this week.
 
