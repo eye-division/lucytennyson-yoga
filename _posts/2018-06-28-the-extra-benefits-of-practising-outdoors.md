@@ -11,7 +11,7 @@ One good thing about yoga is it can usually be done anywhere – quiet movements
 
 And in this warm dry summer weather, going outside.
 
-Some even claim outdoor yoga brings additional benefits, especially if surrounded by nature.&nbsp; We can relax using our different senses, such as listening to the birds, or wind rustling through leaves, or feeling the rough texture of the ground under our feet.
+Some even claim outdoor yoga brings additional benefits, especially if surrounded by nature.  We can relax using our different senses, such as listening to the birds, or wind rustling through leaves, or feeling the rough texture of the ground under our feet.
 
 There is even a suggestion that viewing nature, especially fractals (the organically occurring patterns in tree branches and fern leaves for example), increases wakeful relaxation and internal focus - two components of a deeper yoga practice.
 
