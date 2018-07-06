@@ -17,4 +17,4 @@ This is the "core awakening sun salutation for lower back support"&nbsp; based o
 
 We might try the whole salutation this coming week, so it you'd like a preview see the [Yoga Journal website.](https://www.yogajournal.com/practice/core-awakening-sun-salutation-for-lower-back){: target="_blank"}
 
-This sun salutation includes a deep lunge and twist section that requires sufficient core stability to hold the posture for three breaths. This helps develop the strong abdominal muscles we need to support the lower back in flow yoga. Toning these muscles helps improve posture and balance, not to mention ensuring a safer yoga practice.[...](https://www.yogajournal.com/practice/core-awakening-sun-salutation-for-lower-back){: target="_blank"}
+This sun salutation includes a deep lunge and twist section that requires sufficient core stability to hold the posture for three breaths. This helps develop the strong abdominal muscles we need to support the lower back in flow yoga. Toning these muscles helps improve posture and balance, not to mention ensuring a safer yoga practice.
