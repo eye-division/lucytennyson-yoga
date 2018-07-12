@@ -16,5 +16,3 @@ Spend some time in kneeling postures, either resting on the heels, or with the t
 Here's a reminder of some of this week's practice, which included a workout for the feet, ankles and toes.
 
 ![](/uploads/yogablog13july-1.jpg)
-
-&nbsp;
