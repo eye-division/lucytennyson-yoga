@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### Classes run until the end of July. After the summer break, we resume on 10 September
+#### Classes run until early August. After the summer break, we resume on 10 September. All welcome to drop in at Larkmead on Monday (7.30pm), and St Ethelwolds on Wednesday - just one class at 7pm this week.
 
 You can drop into any of my classes, or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in. You can buy a pass for each term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if they are in full-time education and they come along with you.
 
@@ -22,6 +22,6 @@ You can drop into any of my classes, or start at any time during the term, and b
 
 5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Currently full but email to see if there is a space. (Last class 27 July)*
 
-7.15pm - 8.30pm Yoga for all: All welcome, older people, men and younger people, and beginners. More experienced students too, especially those looking for a deeper focus and chance to relax after work. *Class currently full, email to see if there is a space.*
+7.15pm - 8.30pm Yoga for all: All welcome, older people, men and younger people, and beginners. More experienced students too, especially those looking for a deeper focus and chance to relax after work. *Last class 1 August at 7pm this week only.*
 
 <br>&nbsp;
