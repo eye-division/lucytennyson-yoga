@@ -4,24 +4,24 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### Classes run until early August. After the summer break, we resume on 10 September. All welcome to drop in at Larkmead on Monday 30th (7.30pm), and St Ethelwolds on Wednesday (1st August) - just one class at 7pm this week.
+#### After the summer break, we resume on 10 September.
 
 You can drop into any of my classes, or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in. You can buy a pass for each term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if they are in full-time education and they come along with you.
 
 #### **MONDAY**
 
-12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. *Drop in and beginners welcome; always space. (Last class 25th July)*
+12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. *Drop in and beginners welcome; always space. (Next class 10th September)*
 
-7.30pm - 9pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. *A good place to start, with ages from 13 to 70+ and large roomy studio. (last class 30th July)*
+7.30pm - 8.45pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. *A good place to start, with ages from 13 to 70+ and large roomy studio. (Next class 10th September)*
 
 #### **TUESDAY**
 
-6pm - 7.15pm University of Oxford staff class, 61 Banbury Road, **Oxford.** All staff, post-docs and researchers (and their friends) welcome, please contact me for details.&nbsp; *The focus is on stretching and relaxing after work, and beginners welcome. We currently meet at 61 Banbury Road, near Gee’s. (last class 31 July)*
+6pm - 7.15pm University of Oxford staff class, 61 Banbury Road, **Oxford.** All staff, post-docs and researchers (and their friends) welcome, please contact me for details.&nbsp; *The focus is on stretching and relaxing after work, and beginners welcome. We currently meet at 61 Banbury Road, near Gee’s. (Next class 11th September)*
 
 #### **WEDNESDAY**
 
-5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Contact me now to reserve your place in the autumn as numbers limited to eight&nbsp; (Last class 27 July)*
+5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Contact me now to reserve your place in the autumn as numbers limited to eight&nbsp; (Next class 12 September)*
 
-7.15pm - 8.30pm Yoga for all: All welcome, older people, men and younger people, and beginners. More experienced students too, especially those looking for a deeper focus and chance to relax after work. *Last class 1 August at 7pm for this week only. *Contact me now to reserve your place in the autumn as numbers limited to eight**
+7.15pm - 8.30pm Yoga for all: All welcome, older people, men and younger people, and beginners. More experienced students too, especially those looking for a deeper focus and chance to relax after work. *Contact me now to reserve your place in the autumn as numbers limited to eight*
 
 <br>&nbsp;
