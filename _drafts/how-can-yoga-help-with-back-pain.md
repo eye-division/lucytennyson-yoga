@@ -7,9 +7,7 @@ categories:
   - Blog
 ---
 
-Version:1.0 StartHTML:0000000105 EndHTML:0000004599 StartFragment:0000002325 EndFragment:0000004563
-
-A quick straw poll showed that around two thirds of&nbsp; you suffer from back pain at some time.
+A quick straw poll in this week's classes showed that around two thirds of&nbsp; you suffer from back pain at some time.
 
 Me too. I've been seeing the same chiropractor since 2001, and today she put me right yet again – it's my tight ligaments that are often to blame.
 
@@ -20,3 +18,5 @@ The [NHS website](https://www.nhs.uk/conditions/back-pain/){: target="_blank"} s
 This week's sequence included many movements that I find helpful during a bad back episode. But I also stressed that you are the best judge of what feels right for you and try and learn to notice what is going on in your body and adjust accordingly.
 
 Keeping positive and using relaxation techniques can be as equally important as physical activities. Coming to the floor and gently coming into the constructive rest position (lying with the knees bent and feet flat) and just following the breath, even for a few minutes during the day, can work wonders.
+
+From there try some of the movements below.&nbsp; Find out what helps and avoid any yoga posture that causes discomfort.
