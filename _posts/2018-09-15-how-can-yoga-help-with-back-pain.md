@@ -21,4 +21,4 @@ Keeping positive and using relaxation techniques can be as equally important as 
 
 From there try some of the warm up movements below.&nbsp; Find out what helps and avoid any yoga posture that causes discomfort.
 
-![](blob:https://app.cloudcannon.com/cbbd9d76-e6fa-f948-a9b8-e56173e4a92f)
+![](/uploads/yogablog14sept-1.jpg)
