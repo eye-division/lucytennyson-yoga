@@ -21,8 +21,12 @@ Before you begin,&nbsp; I suggest gently warming up the legs, ankles, feet, neck
 
 The Dru yoga school has many good flowing sequences, and you can find a demonstration of their Earth Salutation [here on You Tube](https://www.youtube.com/watch?v=xtJvfO_GSbc){: target="_blank"}.
 
-Please find some class notes below as a reminder of some of our class this week.
+&nbsp;
 
-![](/uploads/yogablog17sept-1.jpg)
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ![](blob:https://app.cloudcannon.com/3d2ffb50-5e75-dc48-9d02-d68f9d2abe20)
