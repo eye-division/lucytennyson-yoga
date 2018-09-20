@@ -23,6 +23,6 @@ The Dru yoga school has many good flowing sequences, and you can find a demonstr
 
 Please find some class notes below as a reminder of some of our class this week.
 
-![](blob:https://app.cloudcannon.com/ce925f7f-125c-8845-b524-26124c0882d7)
+![](/uploads/yogablog17sept-1.jpg)
 
 ![](blob:https://app.cloudcannon.com/3d2ffb50-5e75-dc48-9d02-d68f9d2abe20)
