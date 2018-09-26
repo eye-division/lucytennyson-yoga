@@ -9,7 +9,7 @@ categories:
 
 We may all have dog days from time to time. But what about Moon Days?
 
-Some dedicated yoga practitioners, in styles such as Ashtanga, have a day off on full and new moon days each month.&nbsp; They believe the moon has such a strong effect on our energies, it is best to rest.
+Some dedicated yoga practitioners, in styles such as Ashtanga, have a day off on full and new moon days each month.  They believe the moon has such a strong effect on our energies, it is best to rest.
 
 They even link it to the breath cycle. Full moon energy they say corresponds to the end of inhalation when the force of prana (or energy flow) is greatest. This is an expansive, upward moving force that makes us feel energetic and emotional, but not well grounded.
 
