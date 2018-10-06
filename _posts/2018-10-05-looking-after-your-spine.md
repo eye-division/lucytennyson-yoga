@@ -23,6 +23,10 @@ But I hope that by learning to listen to our bodies through yoga, we can tune in
 
 Here’s a reminder some of this week’s class
 
-![](/uploads/yogablog5oct-1.jpg)
+&nbsp;
+
+![](/uploads/yogablog5oct-3.jpg)
+
+&nbsp;
 
 ![](blob:https://app.cloudcannon.com/b9ee5887-d8c1-0e47-b23d-d0f02b310190)
