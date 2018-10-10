@@ -16,7 +16,7 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 #### **TUESDAY**
 
-4.15pm - 5.15pm New class and a small friendly group -&nbsp; gentle hatha style, all levels, stretch and relax, beginners very welcome, delightful church hall with sprung wooden floor. URC, Banbury Road, Summertown (opp BBC) **Oxford**.&nbsp; *All ages and fitness levels welcome. This class especially welcomes anyone with a health issue that would stop them joining a regular class. Come along and try, no pressure to do any strong yoga postures.*
+4.15pm - 5.15pm New class and a small friendly group -&nbsp; gentle hatha style, all levels, stretch and relax, beginners very welcome, delightful church hall with sprung wooden floor. URC, Banbury Road, Summertown (opp BBC) **Oxford**.&nbsp; *All ages and fitness levels welcome. This class especially welcomes anyone with a health issue that would stop them joining a regular class. Come along and try, no pressure to do any strong yoga postures, join any time.*
 
 6pm - 7.15pm University of Oxford staff class, 61 Banbury Road, **Oxford.** All staff, post-docs and researchers (and their friends/family) welcome, please contact me for details.&nbsp; The focus is on stretching and relaxing after work, and beginners welcome. We currently meet at 61 Banbury Road, next to Gee’s.
 
@@ -24,10 +24,10 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 3.45-4.45pm Slow and gentle style, all levels, stretch and relax, beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small friendly group in the tranquil Sanctuary. Email me to book your place.*
 
-5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Currently full, as numbers limited to eight&nbsp; but drop me an email to see if&nbsp; there is a space.*
+5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Often full, but usually I can fit one more in, so drop me an email if you are interested.*
 
-7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds. *Currently full, but please drop me an email to go on the waiting list as places may come up later in the term.*
+7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds. *Currently full, but please&nbsp; email to go on the waiting list as places may come up later in the term.*
 
-**Please note, as I may start an extra class on Monday at Larkmead School, starting 5.45pm approx.**
+**Please note, I am hoping to launch a new class on Monday at Larkmead School, starting 5.45pm approx.**
 
 <br>&nbsp;
