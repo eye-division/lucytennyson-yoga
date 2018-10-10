@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### Autumn term 2018 (weekly until Christmas, no classes 22-24 Oct)
+#### Autumn term 2018 (weekly until 19 December, no classes 22-24 Oct)
 
 You can drop into any of my classes (at St Ethelwolds check first if there is a space), or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in. You can buy a pass for each term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if they are in full-time education and they come along with you.
 
