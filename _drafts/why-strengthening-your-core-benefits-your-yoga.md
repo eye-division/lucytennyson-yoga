@@ -23,6 +23,8 @@ Postures such as plank, side plank and boat pose may not be on your list of favo
 
 Here’s a reminder of some of our class this week.
 
+![](blob:https://app.cloudcannon.com/a191a145-d817-a843-b548-96489c2aac3d)
+
 &nbsp;
 
 ![](blob:https://app.cloudcannon.com/5cae99ab-36fe-d642-a959-a28fb35864c4)
