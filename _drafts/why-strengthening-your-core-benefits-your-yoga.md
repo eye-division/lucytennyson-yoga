@@ -23,7 +23,7 @@ Postures such as plank, side plank and boat pose may not be on your list of favo
 
 Here’s a reminder of some of our class this week.
 
-![](blob:https://app.cloudcannon.com/a191a145-d817-a843-b548-96489c2aac3d)
+![](/uploads/yogablog11oct-1.jpg)
 
 &nbsp;
 
