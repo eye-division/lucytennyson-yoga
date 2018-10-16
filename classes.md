@@ -12,6 +12,8 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space.
 
+**NEW CLASS** starts Monday 29th October. 6 - 7pm family friendly yoga at Larkmead School, Abingdon. All welcome including under-16s. Drop me an email if you are interested in joining us, or drop in. Special price for a parent and young person coming together &pound;14. Drop in &pound;8 per person.
+
 7.30pm - 8.45pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. *A good place to start, with ages from 13 to 70+ and large roomy studio.&nbsp; Drop in welcome. Please email me before coming, as the class is nearly full.&nbsp; There may be the possibility of starting a new, earlier class at 5.45pm, please email if you are interested.*
 
 #### **TUESDAY**
