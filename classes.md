@@ -14,7 +14,7 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 **NEW CLASS** starts Monday 29th October. 6 - 7pm family friendly yoga at Larkmead School, Abingdon. All welcome including under-16s. Drop me an email if you are interested in joining us, or drop in. Special price for a parent and young person coming together &pound;14. Drop in &pound;8 per person.
 
-7.30pm - 8.45pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. *A good place to start, with ages from 13 to 70+ and large roomy studio.&nbsp; Drop in welcome. Please email me before coming, as the class is nearly full.&nbsp; There may be the possibility of starting a new, earlier class at 5.45pm, please email if you are interested.*
+7.30pm - 8.45pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. *A good place to start, with ages from 13 to 70+ and large roomy studio.&nbsp; Drop in welcome. *
 
 #### **TUESDAY**
 
@@ -28,8 +28,8 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Often full, but usually I can fit one more in, so drop me an email if you are interested.*
 
-7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds. *Currently full, but please&nbsp; email to go on the waiting list as places may come up later in the term.*
+7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds. *Often full, but email me to see if there is a space.*
 
-**Please note, I am hoping to launch a new class on Monday at Larkmead School, starting 5.45pm approx.**
+&nbsp;
 
 <br>&nbsp;
