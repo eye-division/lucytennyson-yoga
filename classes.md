@@ -26,9 +26,9 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 3.45-4.45pm Slow and gentle style, all levels, stretch and relax, beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small friendly group in the tranquil Sanctuary. Email me to book your place.*
 
-5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Often full, but usually I can fit one more in, so drop me an email if you are interested.*
+5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Often full, but usually I can fit one more in, so drop me an email if you are interested. Passes now available for 7 or 8 weeks up to Christmas.*
 
-7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds. *Often full, but email me to see if there is a space.*
+7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds. *Often full, but email me to see if there is a space. Passes now available for 7 or 8 weeks up to Christmas.*
 
 &nbsp;
 
