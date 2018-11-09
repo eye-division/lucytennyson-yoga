@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### Autumn term 2018 (weekly until 19 December, no classes 22-24 Oct)
+#### Autumn term 2018 (weekly until 19 December)
 
 You can drop into any of my classes (at St Ethelwolds check first if there is a space), or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in. You can buy a pass for each term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if they are in full-time education and they come along with you.
 
@@ -12,7 +12,7 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space.
 
-**NEW CLASS** starts Monday 29th October. 6 - 7pm family friendly yoga at Larkmead School, Abingdon. All welcome including under-16s. Drop me an email if you are interested in joining us, or drop in. Special price for a parent and young person coming together &pound;14. Drop in &pound;8 per person.
+&nbsp;6 - 7pm family friendly yoga at Larkmead School, Abingdon. All welcome including under-16s. Drop me an email if you are interested in joining us, or drop in. Special price for a parent and young person coming together &pound;14. Drop in &pound;8 per person.
 
 7.30pm - 8.45pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. A good place to start, with ages from 13 to 70+ and large roomy studio.&nbsp; Drop in welcome.
 
@@ -24,11 +24,13 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 #### **WEDNESDAY**
 
-3.45-4.45pm Slow and gentle style, all levels, stretch and relax, beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small friendly group (space for up to 8) in the tranquil Sanctuary. Email me to book your place.*
+3.45-4.45pm Slow and gentle style, all levels, stretch and relax, beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small friendly and supportive group (space for up to 8) in the tranquil Sanctuary. Email me to book your place.*
 
-5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small group meets in the tranquil Sanctuary at St Ethelwolds House. All levels. Often full, but usually I can fit one more in, so drop me an email if you are interested. Passes now available for 7 or 8 weeks up to Christmas.*
+5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon. **
 
-7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds. *A popular class and now full for the current term. You can always email me to see if there is a space, or go on the waiting list. *
+7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds.
+
+*Small groups meet in the tranquil Sanctuary at St Ethelwolds House. All levels. Often full, but usually I can fit one more in, so drop me an email if you are interested. Passes will be available from December for the new term in 2019 .*
 
 &nbsp;
 
