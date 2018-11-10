@@ -19,6 +19,8 @@ Supta padangusthasana, which we practised in class this week, is a very soothing
 
 Try an extended puppy. Come onto all fours. Keeping your hips stacked over your knees, come onto your fingertips and walk them forward. Keep your elbows lifted, as you relax your chest and forehead down. If you wish, you can gently massage your forehead from left to right to ease facial tension. Hold for a minute, then release, bringing your hips back to your heels for child’s pose.
 
-The sketches below are a reminder of some of this week's class (not all of you did the sun salutations). The leg and hip stretches are good to do after a warm up and some standing yoga. They are also helpful for relaxing at the end of the day.
+The sketches below are a reminder of some of this week’s class (not all of you did the sun salutations). The leg and hip stretches are good to do after a warm up and some standing yoga. They are also helpful for relaxing at the end of the day.
+
+![](blob:https://app.cloudcannon.com/df19ff47-e77b-3d49-a219-638e1244809a)
 
 ![](blob:https://app.cloudcannon.com/b1db23bb-5754-8447-9a4b-298172b8ff63)
