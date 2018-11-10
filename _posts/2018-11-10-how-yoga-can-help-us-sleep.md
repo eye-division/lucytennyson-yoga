@@ -21,6 +21,6 @@ Try an extended puppy. Come onto all fours. Keeping your hips stacked over your 
 
 The sketches below are a reminder of some of this week’s class (not all of you did the sun salutations). The leg and hip stretches are good to do after a warm up and some standing yoga. They are also helpful for relaxing at the end of the day.
 
-![](blob:https://app.cloudcannon.com/df19ff47-e77b-3d49-a219-638e1244809a)
+![](/uploads/yogablog9nov-1.jpg)
 
 ![](blob:https://app.cloudcannon.com/b1db23bb-5754-8447-9a4b-298172b8ff63)
