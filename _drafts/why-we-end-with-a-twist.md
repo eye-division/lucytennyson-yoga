@@ -21,4 +21,8 @@ Protect your neck by turning it last of all. Try and keep your shoulders level, 
 
 An aid to digestion?
 
-Twists are thought to aid digestion. But there is no medical evidence to support the theory that they may be detoxifying. However, depending how deeply you are twisting, they certainly put pressure on our internal digestive organs, squeezing them first on one side then the other.&nbsp;&nbsp;
+Twists are thought to aid digestion. But there is no medical evidence to support the theory that they may be detoxifying. However, depending how deeply you are twisting, they certainly put pressure on our internal digestive organs, squeezing them first on one side then the other. &nbsp;
+
+Here's a reminder of some of this week's sequences
+
+![](blob:https://app.cloudcannon.com/8eb6cafc-f705-7c42-bae7-2696a2d45d67)
