@@ -14,7 +14,7 @@ You can drop into any of my classes (at St Ethelwolds please check first if ther
 
 &nbsp;6 - 7pm family friendly yoga at Larkmead School, Abingdon. All welcome including under-16s. Drop me an email if you are interested in joining us, or drop in. Special price for a parent and young person coming together &pound;14. Drop in &pound;8 per person.
 
-7.30pm - 8.45pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. A good place to start, with ages from 13 to 70+ and large roomy studio.&nbsp; Drop in welcome.
+7.30pm - 8.45pm Evening class -&nbsp; hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. Chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. A good place to start, with ages from 13 to 70+ and large roomy studio.&nbsp; Drop in welcome &pound;10.
 
 #### **TUESDAY**
 
@@ -30,7 +30,7 @@ You can drop into any of my classes (at St Ethelwolds please check first if ther
 
 7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work. &nbsp; Currently full.
 
-*These three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 9, and are bookable in advance at the beginning of each half-term. The next passes will be available from December for the new term in 2019 .*
+*These three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 9, and are bookable in advance at the beginning of each half-term. The next passes will be available from December for the new term starting 9th January 2019 . &nbsp;Drop in is available if there is a space, please drop me an email first.*
 
 &nbsp;
 
