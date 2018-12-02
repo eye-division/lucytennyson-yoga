@@ -6,7 +6,7 @@ permalink: /classes/
 
 #### Autumn term 2018 (weekly until 19 December)
 
-You can drop into any of my classes (at St Ethelwolds check first if there is a space), or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in. You can buy a pass for each term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if they are in full-time education and they come along with you.
+You can drop into any of my classes (at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all. The cost is &pound;10 drop-in. You can buy a pass for each term which works out at &pound;8 per class. I also offer a substantial discount to your son or daughter if they are in full-time education and they come along with you.
 
 #### **MONDAY**
 
@@ -24,13 +24,13 @@ You can drop into any of my classes (at St Ethelwolds check first if there is a 
 
 #### **WEDNESDAY**
 
-3.45-4.45pm Slow and gentle style, all levels, stretch and relax, beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon.&nbsp;***Small friendly and supportive group (space for up to 8) in the tranquil Sanctuary. Email me to book your place.*
+3.45-4.45pm Slow and gentle with the focus on improving mobility and relaxation; beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp;
 
-5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class in a beautiful riverside setting.&nbsp; [St Ethelwolds](http://ethelwoldhouse.com/), East St Helen Street, **Abingdon. **
+5.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group.
 
-7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work.&nbsp; Small class meets in the tranquil Sanctuary at St Ethelwolds.
+7.15pm - 8.30pm Yoga for all: All welcome, especially those looking for a deeper focus and chance to relax after work. &nbsp; Currently full.
 
-*Small groups meet in the tranquil Sanctuary at St Ethelwolds House. All levels. Often full, but usually I can fit one more in, so drop me an email if you are interested. Passes will be available from December for the new term in 2019 .*
+*These three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 9, and are bookable in advance at the beginning of each half-term. The next passes will be available from December for the new term in 2019 .*
 
 &nbsp;
 
