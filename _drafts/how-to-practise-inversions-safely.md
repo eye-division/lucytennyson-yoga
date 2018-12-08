@@ -15,10 +15,12 @@ Inversions also work on the lymphatic system, the flow of white blood cells whic
 
 Stronger inversions like shoulder stand also strengthen the arms, legs, back and core abdominal muscles.&nbsp;
 
-There is always a risk of neck injury in poses such as shoulder stand, when the weight of the body is taken into the head and shoulders. That’s why I always make sure we prepare thoroughly. This week we worked on some preparatory poses, aimed at opening the shoulders to ensure the weight is evenly distributed on the shoulders and upper arms and not on the head and neck.
+However, there is always a risk of neck injury in poses such as shoulder stand, when the weight of the body is taken into the head and shoulders. It's not recommended for anyone with eye issues or a neck problem.
+
+I like to make sure we prepare thoroughly. This week we worked on some preparatory poses, aimed at opening the shoulders to ensure the weight is evenly distributed on the shoulders and upper arms and not on the head and neck.
 
 We opened our chests lying back on over a yoga block. We did some warm ups and strength work for the shoulders, and then practised coming up onto the shoulders and arms in bridge.
 
-![](blob:https://app.cloudcannon.com/936d0af3-a912-c141-ae05-330a3a85c6a9)
+![](/uploads/yogablog10dec.jpg)
 
 &nbsp;
