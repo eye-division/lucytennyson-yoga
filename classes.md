@@ -12,7 +12,7 @@ You can drop into any of my classes (at St Ethelwolds please check first if ther
 
 12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space.
 
-7.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. Drop in welcome &pound;10. Special price for a parent and young person in full time education coming together &pound;16.
+7.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. Drop in welcome &pound;10. *Special price for a parent and young person in full time education coming together &pound;16.*
 
 #### **TUESDAY**
 
@@ -28,6 +28,6 @@ You can drop into any of my classes (at St Ethelwolds please check first if ther
 
 7.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. &nbsp;&nbsp;
 
-*These three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 9, and are bookable in advance at the beginning of each half-term. The next passes are now available for the new term starting 9th January 2019 - 5 weeks at &pound;40 . &nbsp;Drop in is available if there is a space, please drop me an email first.*
+These three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, **Abingdon.**Places are limited to 9, and are bookable in advance at the beginning of each half-term. *The next passes are now available for the new term starting 9th January 2019 - 5 weeks at &pound;40 . &nbsp;Drop in is available if there is a space, please drop me an email first.*
 
 <br>&nbsp;
