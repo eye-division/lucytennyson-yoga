@@ -14,3 +14,5 @@ Whether you sit in a simple cross-legged posture like sukhasana which we did in 
 It's important to remember that everyone has a different anatomical structure in their hips, which may potentially mean that cross-legged doesn’t suit you. If this is the case, then try sitting on your heels, or in virasana (hero pose) on as many blocks or cushions as you need to feel comfortable. This rotates the thighs inwards, in the opposite way to cross-legged where the thighs are rotating outwards. I think holding one posture for long periods of time is unwise, and better to change position and bring the joints into as wide a range of movement as possible.
 
 You'll find ways of sitting explore in this short 90 second [You Tube clip.](https://www.youtube.com/watch?v=6Vk4O3-_tCc){: target="_blank"} There are many others online, but beware of any that suggest beginners try strong positions such as Lotus.
+
+![](/uploads/yogablog19jan.jpg)
