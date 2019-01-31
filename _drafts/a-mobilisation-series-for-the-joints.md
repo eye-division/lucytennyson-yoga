@@ -7,17 +7,17 @@ categories:
   - Blog
 ---
 
-We have over 200 joints in the body, and good health depends on keeping them moving. Most – for example, the knees, fingers and toes - are synovial. Smooth tissue called cartilage and synovium plus a fluid cushion the joints so bones do not rub together.&nbsp;
+We have over 200 joints in the body, and good health depends on keeping them moving. Most – for example, the knees, fingers and hips - are synovial. Smooth tissue, cartilage and synovium, plus a fluid cushion the joints so bones do not rub together.&nbsp;
 
-But increasing age, injury,or carrying too much weight can wear and tear your cartilage. This can lead to a reaction that can damage your joints and lead to arthritis, for example.
+But increasing age, injury,or carrying too much weight can wear and tear your cartilage, leading to arthritis, for example.
 
 The best way to care for your joints is to keep them and your muscles, ligaments, and bones strong and stable. As well as good diet, the right kind of exercise will help enormously.
 
-Pawankuktasana is a series of exercises developed by the Bihar School of Yoga in India and published in their book Asana Pranayama Mudra Bandha in 1969. &nbsp;The aim is to free-up tension, improve circulation and limber the whole body, and the sequence has been widely adapted. It’s a gentle and effective movement and uses slow repetitive movements with the breath.
+Pawankuktasana is a series of exercises developed by the Bihar School of Yoga in India and published in its book *Asana Pranayama Mudra Bandha* in 1969. &nbsp;The aim is to free-up tension, improve circulation and limber the whole body, and the sequence has been widely adapted. It’s a gentle and effective movement and uses slow repetitive movements with the breath.
 
-We practised a shortened version in class this week.
+We practised a shortened version in class this week. Many of the exercises can be done sitting on a block, or on a chair.
 
-There is a l[ink here](https://www.youtube.com/watch?v=HzQU4lQUnwA){: target="_blank"}&nbsp;to You Tube (I'm afraid it's rather slow, so make sure you have 30 minutes spare ) Plus you can read something more general on the arthritis research website [here](https://www.arthritisresearchuk.org/arthritis-information/arthritis-today-magazine/155-winter-2012/yoga-trial.aspx){: target="_blank"}
+There is a l[ink here](https://www.youtube.com/watch?v=HzQU4lQUnwA){: target="_blank"}&nbsp;on You Tube (I'm afraid it's rather slow, so make sure you have 30 minutes spare ) Plus you can read something more general on the arthritis research website [here](https://www.arthritisresearchuk.org/arthritis-information/arthritis-today-magazine/155-winter-2012/yoga-trial.aspx){: target="_blank"}
 
 And a reminder of the sequence below:
 
