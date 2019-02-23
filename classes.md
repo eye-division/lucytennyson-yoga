@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### 2019 dates: No classes 10-24 Feb, then 25 Feb-10 April
+#### 2019 dates: The current term runs until 10 April. After a two week break over Easter, we restart on 29 April.
 
 You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all. Most of my classes cost &pound;10 drop-in. You can buy a pass for a block of classes at the beginning of each half term at &pound;8 per class. I also offer a discount to your son or daughter if they are in full-time education and they come along with you.
 
