@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thinking of a yoga holiday?
-date: 2019-02-23 08:43:00
+date: 2019-03-02 08:43:00
 author: Lucy Tennyson
 categories:
   - Blog
@@ -9,7 +9,7 @@ categories:
 
 I’m often asked whether I can recommend any yoga weekends or retreats. It’s a growing market and a Google search will throw up a huge choice. I would suggest trying a UK based weekend to start, to see if you enjoy the intensity of twice a day yoga/meditation.
 
-Vegetarian food is the norm and most people tend go on their own. In my experience, they vary a lot, from luxury breaks with gourmet food, and social evenings with alcohol, to &nbsp;retreats, more austere and yoga focussed with Ayurvedic diets, herbal tea and meditation.
+Vegetarian food is the norm and most people tend go on their own. In my experience, they vary a lot, from luxury breaks with gourmet food, and social evenings with alcohol, to more austere retreats, often with add ons such as an Ayurvedic diet, talks and meditation.
 
 My suggestion is that you carefully check the level of experience and qualifications of the teacher – don’t be won over by the wonderful photos of the venue/pool/exotic location – and don’t hesitate to ask questions before signing up.
 
@@ -23,7 +23,7 @@ Like Hazel, Linda Morley is an experienced BWY (British Wheel of Yoga) teacher w
 
 http://www.lindayoga.co.uk
 
-Nicole and Gary are a friendly and welcoming couple who have been running hotel-based yoga holidays near their home in the Costa Blanca for many years. I joined their yoga and walking holiday in Altea, which attracted a mixed bunch of all levels of yoga, and was well organised.
+Nicole and Gary are a friendly and welcoming couple who have been running hotel-based yoga holidays near their home in the Costa Blanca for many years. I joined their yoga and walking holiday in Altea, which attracted a mixed bunch of all levels of yoga, and was relaxed and well organised.
 
 [https://www.yogabreaks.org.uk/retreats/](https://www.yogabreaks.org.uk/retreats/)
 
@@ -31,7 +31,7 @@ For those of you who are interested to find out more about the philosophy behind
 
 [http://www.twobirdsyoga.com/courses.php](http://www.twobirdsyoga.com/courses.php)
 
-My first proper retreat was to the Sivananda ashram in the Bahamas. I was already a teacher, and ready to try the ‘real thing’. It was an amazing experience (I went twice). There are Sivananda centres around the world which offer the opportunity to totally immerse yourself in yoga. The day begins with meditation at 6am, following by chanting, and a two hour hath yoga class …. All before breakfast!
+My first proper retreat was to the Sivananda ashram in the Bahamas. I had recently qualified as a teacher, and ready to try the ‘real thing’. It was an amazing experience (I went twice). There are Sivananda centres around the world which offer the opportunity to totally immerse yourself in yoga. The day begins with meditation at 6am, following by chanting, and a two hour hath yoga class …. All before breakfast!
 
 https://www.sivanandabahamas.org
 
@@ -39,6 +39,6 @@ The first ever yoga retreat I went on was &nbsp;in a farmhouse near Brecon with 
 
 [http://www.ciyc.co.uk/workshops-and-holidays.html](http://www.ciyc.co.uk/workshops-and-holidays.html)
 
-My most recent trip was to Goa, India with Jeff Phenix. I must admit I went for the location (Bamboo Yoga Reatreat) on Patnam Beach. Southern Goa is amazing – beautiful beaches, and so is the yoga – lots of energetic ashtanga and vinyasa flow. And the bodies on the beach were gorgeous too. Not suitable for beginners, I would recommend this retreat to someone who wants to work hard and try some stronger postures.
+My most recent trip was to Goa, India with Jeff Phenix. I must admit I went for the location (Bamboo Yoga Reatreat) on Patnam Beach. Southern Goa is amazing – beautiful beaches, and so is the yoga – lots of energetic ashtanga and vinyasa flow. And the bodies on the beach were equally gorgeous too. Not suitable for beginners, I would recommend this retreat to someone who wants to work hard and try some stronger postures.
 
 https://www.phenixyoga.com/jeff-phenix-yoga
