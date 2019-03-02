@@ -15,9 +15,9 @@ My suggestion is that you carefully check the level of experience and qualificat
 
 I am always happy to chat over any holidays/retreats you are interested in. Here is a list of some of places I’ve tried over the last 15 years or so. I’ve enjoyed all of them in different ways:
 
-Oxford based hatha teacher, Hazel Faithfull has been leading weekend and week long holidays for many years. Her yoga is more gentle and she is good with beginners.
+Oxford based hatha teacher, Hazel Faithfull has been leading weekends in the Oxfordshire area and week long holidays in France for many years. Her yoga is more gentle and she is good with beginners.
 
-[https://www.hazelfaithfull.co.uk/yoga-holiday/](https://www.hazelfaithfull.co.uk/yoga-holiday/)
+[https://www.hazelfaithfull.co.uk/yoga-holiday/](https://www.hazelfaithfull.co.uk/yoga-holiday/){: target="_blank"}
 
 Like Hazel, Linda Morley is an experienced BWY (British Wheel of Yoga) teacher who welcomes beginners and students of all abilities. I went on one of her weekends in Somerset, based in a very comfortable farmhouse guesthouse. She also runs tours of India each year.
 
