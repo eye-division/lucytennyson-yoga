@@ -7,20 +7,18 @@ categories:
   - Blog
 ---
 
-The psoas muscle is one of the largest and most important skeletal muscles in the human body. Running on the left and right sides, and stretching from the lower spinal column down to the femur in the leg, it is the only muscle that connects the upper to the lower body.
+Bridge pose is one of those yoga asanas that everyone can practise together regardless of their level of fitness. I like to introduce it near the end of a class when the muscles of the back and legs are nice and warm, and we can get maximum benefit from it.
 
-The psoas helps us stand upright and walk, and plays a vital role in postural alignment, movement and overall well-being. Its function also extends beyond the mechanical to involve the nerve complex. It tends to tighten during moments of stress, as well as when the knee is bent in towards the body (for example when we sit). It can be beneficial to try to open up in the front of the body to allow the psoas to release.
+Bridge involves the whole body; it strengthens the legs and hips, massages the spine, and opens up the front of the chest. Thoughtful practice of this asana also offers an opportunity to explore the body and its movements with attention and care. In the process, the breath deepens, which in turn helps calm the mind. The body gets a deeper level of expansion bringing about a feeling of relaxation when you relax out of the posture.
 
-Many yoga postures involve this deep seated muscle, especially anything involving a back bend such as Warrior 1, bridge and lunges.&nbsp; Our yoga sequence this week offered a variety of poses, aimed at first warming up the whole body (using variations of vajrasana or kneeling posture).
+It is generally safe to practise, but be careful with a neck injury – keep the head still and use a blanket. If you have a back issue, you can rest the sacrum on a block or two, and/or come up
 
-We began by sitting over blocks with the aim of lifting up through the spine to encourage the chest to move more freely in a sequence of breathing exercises. We followed with some warms ups (such as cat and downward dog, and child), and then from kneeling, worked on variations of vajrasana.
+You’ll find plenty of info online, but Yoga Journal offers a step by step guide useful for beginners:
 
-This was followed by supine leg raises to engage and tone up the core, and then some stretches to open up the front of the body and the psoas.
+ 
 
-The diagram shows the psoas muscle. Below is a reminder of some of what we practised in class this week.
+[https://www.yogajournal.com/poses/bridge-pose](https://www.yogajournal.com/poses/bridge-pose){: target="_blank"}
 
-![](/uploads/yogablogpsoas.jpeg)
+See below for some of this week's class which also included Bridge.
 
-![](/uploads/yogablog16march-1.jpg)
-
-&nbsp;
+![](/uploads/yogablog23march.jpg)
