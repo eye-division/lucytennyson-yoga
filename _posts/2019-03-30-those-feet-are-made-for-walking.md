@@ -11,13 +11,13 @@ I’ve been stressing the importance of improving the strength of our feet and a
 
 Mindful walking practices draw our attention to the feet, and are easy to fit into the day. With summer on the way, it’s something to try out of doors, in a garden (bare feet!), on a woodland walk, or even through local streets to the shops.
 
-We would all benefit from more walking, whatever our level of fitness, as well as getting down onto the floor, bending and using the feet and ankles.&nbsp;
+We would all benefit from more walking, whatever our level of fitness, as well as getting down onto the floor, bending and using the feet and ankles. 
 
 The health company BUPA advocates mindful walking on its website to help with stress. Their suggestion is to start with a five minute walk outside. Divide your walk into approximately one minute intervals, fixing your attention on four things in turn:
 
 1. Walking
-2. Seeing&nbsp;
-3. Listening&nbsp;
+2. Seeing 
+3. Listening 
 4. Feeling
 
 [https://www.bupa.co.uk/newsroom/ourviews/mindful-walking-meditation](https://www.bupa.co.uk/newsroom/ourviews/mindful-walking-meditation)
@@ -25,10 +25,10 @@ The health company BUPA advocates mindful walking on its website to help with st
 Another practice to try can be done inside, with shoes off. Notice and pay attention to each foot in turn as it goes through four phases
 
 1. Lifting
-2. moving,&nbsp;
-3. placing,&nbsp;
-4. landing&nbsp;
+2. moving, 
+3. placing, 
+4. landing 
 
-Mindful walking is a form of meditation in motion. It uses the everyday activity of walking as a mindfulness practice to help you become more aware of the sensations in your body. By tuning into your environment and the sensations in your body as you walk, it can help you to focus on the present moment.&nbsp;
+Mindful walking is a form of meditation in motion. It uses the everyday activity of walking as a mindfulness practice to help you become more aware of the sensations in your body. By tuning into your environment and the sensations in your body as you walk, it can help you to focus on the present moment. 
 
 It’s not about walking slowly, but paying attention. Notice the point on the ball of the foot, a sweet spot where you make contact with the earth.
