@@ -7,34 +7,18 @@ categories:
   - Blog
 ---
 
-If you believe, as I do, that yoga is for everybody, then the answer I suggest is a ‘no’.&nbsp;
+Pranayama (which roughly translates as breath control) is one of the eight limbs of yoga outlined in ancient texts such as the Yoga Sutras, along with meditation. Asana (or posture) is one of the seven other limbs, but this Sanskrit word originally meant holding a steady and comfortable seated position, and not the physical moving yoga we do today.
 
-For some of us, in reasonable fitness, with sound backs and necks, and no eye problems, and sufficient flexibility, it probably does no harm, and might do some good. But in my view, the benefits of raising the legs above the heart, can more safely be gained from lying with the legs resting up the wall, or over a chair seat.&nbsp;
+The wandering or busy mind clearly bothered thinkers and sages in Asia two millennia ago, just as much as it does us today. They discovered that practising a range of controlled breathing sequences helped move them along a path towards inner contemplation, stillness and meditation.
 
-In researching this blog, the totally unproven claims made for yoga never cease to amaze. For example on shoulderstand:
+Today, we can benefit from similar breathing exercises to calm the mind and relax,  which can in turn help relieve  a range of conditions such as stress, insomnia, and even anxiety and depression.
 
-“There is no doubt that Sarvangasana is a cure-all for most of the common ailments we encounter, like constipation and the common cold.”
+It’s easy, you don’t need to be fit, or wear special clothes or join a class. The hard bit is setting aside just 10 or 15 minutes in your day.
 
-This nonsense was written by Linda Mitchell on the popular health website Mind, Body, Green.
+Begin by lying on your back with your knees bent and feet flat on the floor, hip-width apart. Turn your attention to your breathing until it feels relaxed and comfortable. Notice the movement of the body, and aim to let go of tightness and muscle tension. As you inhale, the abdomen naturally expands; as you exhale, feel the slight contraction of the abdomen. In a gentle way, try to actively expand the abdomen on the inhale and contract the abdomen on the exhale to support the natural movement of the diaphragm.
 
-[https://www.mindbodygreen.com/0-6214/10-Reasons-to-Practice-Shoulderstand-Every-Day.html](https://www.mindbodygreen.com/0-6214/10-Reasons-to-Practice-Shoulderstand-Every-Day.html){: target="_blank"}
+In stage two, place your palms on the abdomen and take a few relaxed breaths, feeling the abdomen expand on the inhalation and gently contract on the exhalation. Mentally count the length of each inhalation and exhalation for several more breaths. Bring them to equal length over the next few breaths. 
 
-Right at the end, the same article goes on to warn:&nbsp;
+The (optional) last stage is to  gradually increase the length of your exhalation by 1 to 2 seconds by gently drawing out the contraction of the abdomen. You might notice slight pauses developing at the top and bottom of the inhale. Keep the breath smooth and relaxed until your breathing ratio reaches something like 4:6 or  5:7.
 
-“As with many yoga postures, there are contraindications. People with high blood pressure, detached retina, glaucoma, hernias, cardiovascular disease, cervical spondylitis, and/or slipped discs should not practice shoulderstand. If you have or have had a neck injury, seek advice…”
-
-That’s an awful lot of reasons not to risk it …
-
-However, I am including the opportunity to practise shoulderstand (in Sanskrit Sarvangasana) in our class in the last two weeks of this term. &nbsp;But please first think about whether it is the right pose for you.
-
-Not content with telling us that yoga has the cure for the common cold, theMind, Body Green article adds that shoulderstand “reduces wrinkles”.
-
-Yoga Reduces Wrinkles …..! &nbsp;Wow that must be true …
-
-After the light reading, I often turn to Yoga Journal for sound advice, and you can read about the pose here, and how to do it.
-
-[https://www.yogajournal.com/poses/supported-shoulderstand](https://www.yogajournal.com/poses/supported-shoulderstand){: target="_blank"}
-
-And if you want to delve deeper, and you are interested in the origins of poses like this, the suggestion is that Sarvangasana is a relatively modern idea, coming into being around 100 years ago, with the rise of the health and fitness movement in India linked to yoga.
-
-[http://bahiranga.com/shoulderstand-history-meaning-method/](http://bahiranga.com/shoulderstand-history-meaning-method/){: target="_blank"}
+After a few minutes you might want to come up to a sitting position and remain seated, and just enjoy the inner quiet, before coming back into your day or evening when you are ready.
