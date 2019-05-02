@@ -21,4 +21,4 @@ In stage two, place your palms on the abdomen and take a few relaxed breaths, fe
 
 The (optional) last stage is to  gradually increase the length of your exhalation by 1 to 2 seconds by gently drawing out the contraction of the abdomen. You might notice slight pauses developing at the top and bottom of the inhale. Keep the breath smooth and relaxed until your breathing ratio reaches something like 4:6 or  5:7.
 
-After a few minutes you might want to come up to a sitting position and remain seated, and just enjoy the inner quiet, before coming back into your day or evening when you are ready.
+After around 10 or 15 minutes you can slowly come up, stretch and move back into your day, or opt to sit for a little longer enjoying the inner quiet.
