@@ -1,10 +1,12 @@
-# External gems
-gems:
+# External gems - updated to plugins in jekyll v3.6
+plugins:
  # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-
-exclude:
-  - "/vendor/"
+ # - jekyll-assets
+ # - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll/tagging
+   - jekyll-tagging-related_posts
 
 # Site settings
 title: Lucy Tennyson
@@ -23,9 +25,6 @@ email: support@eyedivision.com
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
 permalink: pretty
 
 # Image CDN
