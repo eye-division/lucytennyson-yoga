@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pose of the momth: Eagle'
+title: 'Pose of the month: Eagle'
 date: 2019-05-10 08:43:00
 author: Lucy Tennyson
 categories:
