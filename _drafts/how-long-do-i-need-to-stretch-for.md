@@ -17,6 +17,8 @@ We worked alternatively on the quads in the front of the thigh, and the hamstrin
 
 We also held our stretches for longer than usual. By doing so, we can help improve not only muscle flexibility, but also work on the fascia that binds our muscles. &nbsp;Julie Gudmestad, a physical therapist and certified Iyengar instructor, is quoted in Yoga Journal as saying. "If students hold the poses for shorter periods, people get a nice sense of release … but they aren't necessarily going to get the structural changes that add up to a permanent increase in flexibility."
 
-By using props such as belts and yoga blocks to ease into the posture, we can really relax into asanas to go a little deeper.
+By using props such as belts and yoga blocks to ease into the posture, we can really relax into asanas to go a little deeper. A reminder of the class is below
 
-You can read a long article by [Julie Gudmestad here](https://www.yogajournal.com/practice/what-science-can-teach-us-about-flexibility)
+And, you can read a long article on stretching by [Julie Gudmestad here. ](https://www.yogajournal.com/practice/what-science-can-teach-us-about-flexibility){: target="_blank"}
+
+![](/uploads/yogablog18may-3.jpg)
