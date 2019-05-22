@@ -22,12 +22,12 @@ You can usually drop into any of my classes (although at St Ethelwolds please ch
 
 #### **WEDNESDAY**
 
-Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term. Drop in is usually available but please drop me an email first to check.
+Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term. The next pass of six classes from 5 May is now available. Drop in is often available but please drop me an email first to check in case the class is full.
 
 3\.45-4.45pm Ultra gentle with the focus on improving mobility and relaxation for over-50s; beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp;
 
 5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group. Currently full, contact me to go on the waiting list.
 
-7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. &nbsp; Currently full, contact me to go on the waiting list.
+7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
 
 <br>&nbsp;
