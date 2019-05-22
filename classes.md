@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### 2019 dates:&nbsp; 29 April - 22 May, and 3 June - 10 July. Autumn term starts 9 September.
+#### 2019 dates: &nbsp; 3 June - end July. Autumn term starts 9 September.
 
 You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all. Most of my classes cost &pound;10 drop-in. You can buy a pass for a block of classes at the beginning of each half term at &pound;8 per class. I also offer a discount to your son or daughter if they are in full-time education and they come along with you.
 
