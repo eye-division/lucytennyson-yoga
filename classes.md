@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### 2019 dates:&nbsp; 29 April - 22 May, and 3 June - 10 July. Autumn term starts 9 September.
+#### 2019 dates: &nbsp; 3 June - end July. Autumn term starts 9 September.
 
 You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all. Most of my classes cost &pound;10 drop-in. You can buy a pass for a block of classes at the beginning of each half term at &pound;8 per class. I also offer a discount to your son or daughter if they are in full-time education and they come along with you.
 
@@ -22,12 +22,12 @@ You can usually drop into any of my classes (although at St Ethelwolds please ch
 
 #### **WEDNESDAY**
 
-Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term. Drop in is usually available but please drop me an email first to check.
+Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term. The next pass of six classes from 5 May is now available. Drop in is often available but please drop me an email first to check in case the class is full.
 
 3\.45-4.45pm Ultra gentle with the focus on improving mobility and relaxation for over-50s; beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp;
 
 5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group. Currently full, contact me to go on the waiting list.
 
-7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. &nbsp; Currently full, contact me to go on the waiting list.
+7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
 
 <br>&nbsp;
