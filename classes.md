@@ -6,6 +6,8 @@ permalink: /classes/
 
 ###### *You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all. Most of my classes cost &pound;10 drop-in. You can buy a pass for a block of classes at the beginning of each half term at &pound;8 per class. I also offer a discount to your son or daughter if they are in full-time education and they come along with you.*
 
+&nbsp;
+
 #### **MONDAY**
 
 12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space. *Last class this term 22nd July.*
