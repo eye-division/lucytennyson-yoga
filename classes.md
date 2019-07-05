@@ -10,7 +10,7 @@ permalink: /classes/
 
 12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space. *Last class this term 22nd July.*
 
-7\.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. Drop in welcome &pound;10. *Special price for a parent and young person in full time education coming together &pound;16.&nbsp;* Last class this term 8th July.
+7\.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. Drop in welcome &pound;10. *Special price for a parent and young person in full time education coming together &pound;16.&nbsp;**Last class this term 8th July.*
 
 #### **TUESDAY**
 
