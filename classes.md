@@ -24,7 +24,7 @@ Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Hel
 
 3\.45-4.45pm Ultra gentle with the focus on improving mobility and relaxation for over-50s; beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp;
 
-5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group. Currently full, contact me to go on the waiting list.&nbsp;
+5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group.&nbsp;
 
 7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
 
