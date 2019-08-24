@@ -4,30 +4,30 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-###### *You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all. Most of my classes cost &pound;10 drop-in. You can buy a pass for a block of classes at the beginning of each half term at &pound;8 per class. I also offer a discount to your son or daughter if they are in full-time education and they come along with you.*
-
-&nbsp;
+#### You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all.
 
 #### **MONDAY**
 
-12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space. *Last class this term 22nd July.*
+12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space. Term starts 9th September*. &pound;10 drop in/&pound;8 pass.*
 
-7\.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. Drop in welcome &pound;10. *Special price for a parent and young person in full time education coming together &pound;16.&nbsp;**Last class this term 8th July.*
+7\.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. &nbsp;Term starts 9th September*. &pound;10 drop in/&pound;8 pass.&nbsp;*Special price for a parent and young person in full time education coming together &pound;14. \*\*
 
 #### **TUESDAY**
 
-4\.15pm - 5.15pm Ultra gentle class. Class restarts 10the September.&nbsp;*Cost &pound;8.*
+4\.15pm - 5.15pm New ultra slow and gentle class at North Oxford Association, Summetown. Term starts 10th September.&nbsp;*Cost &pound;8.*
 
 6pm - 7.15pm University of Oxford staff class, 61 Banbury Road, **Oxford.** All staff, post-docs and researchers (and their friends/family) welcome, please contact me for details.&nbsp; The focus is on stretching and relaxing after work, and beginners welcome. We currently meet at 61 Banbury Road, next to Gee’s. Cost &pound;7.
 
 #### **WEDNESDAY**
 
-Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term. The next pass of six classes from 5 May is now available. Drop in is often available but please drop me an email first to check in case the class is full.
+Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term.&nbsp; Drop in is often available but please drop me an email first to check in case the class is full.
 
-3\.45-4.45pm Ultra gentle with the focus on improving mobility and relaxation for over-50s; beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them. *Last class 24th July.*
+3\.45-4.45pm Ultra gentle with the focus on improving mobility and relaxation for over-50s; beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp;
 
-5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group. Currently full, contact me to go on the waiting list.&nbsp;*Last class 24th July. (note: on 17th class starts 5pm.)*
+5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group.&nbsp;
 
-7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. &nbsp;*Last class 24th July. (note: on 17th class starts 6.30pm.)*
+7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
+
+*Term starts 10th September. 7 -week passes now available at &pound;56 [contact me to book your place.](/contact/)*
 
 <br>&nbsp;
