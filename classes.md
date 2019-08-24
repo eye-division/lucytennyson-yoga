@@ -10,7 +10,7 @@ permalink: /classes/
 
 12pm -1.15pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**. Drop in and beginners welcome; always space. Term starts 9th September*. &pound;10 drop in/&pound;8 pass.*
 
-7\.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. &nbsp;Term starts 9th September*. &pound;10 drop in/&pound;8 pass.&nbsp;*Special price for a parent and young person in full time education coming together &pound;14. **
+7\.30pm - 8.45pm Hatha flow yoga, all levels, come and stretch out and nourish both body and mind at the end of the day. A good place to start, with ages from 13 to 70+ and large roomy studio, and, for the more experienced, a chance to try some stronger and deeper stretches. Performance Studio, Larkmead School, **Abingdon**. &nbsp;Term starts 9th September*. &pound;10 drop in/&pound;8 pass.&nbsp;*Special price for a parent and young person in full time education coming together &pound;14. \*\*
 
 #### **TUESDAY**
 
@@ -28,6 +28,6 @@ Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Hel
 
 7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
 
-*Term starts 10th September. 7 -week passes now available at &pound;56 contact me to book your place.*
+*Term starts 10th September. 7 -week passes now available at &pound;56 [contact me to book your place.](/contact/)*
 
 <br>&nbsp;
