@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can yoga help us heal after an accident?
+title: How can yoga help us heal ?
 date: 2019-09-14 08:43:00
 author: Lucy Tennyson
 categories:
