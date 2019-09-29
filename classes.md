@@ -20,7 +20,7 @@ permalink: /classes/
 
 #### **WEDNESDAY**
 
-Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term.&nbsp; Drop in is often available but please drop me an email first to check in case the class is full.
+Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Helen Street, Abingdon. Places are limited to 8, and are bookable in advance at the beginning of each half-term.&nbsp; Drop in is often available but please drop me an email first to let me know you are coming.
 
 3\.45-4.45pm Ultra gentle with the focus on improving mobility and relaxation for over-50s; beginners very welcome, plus anyone with health issues who may feel a regular yoga class is not for them.&nbsp;
 
@@ -28,6 +28,8 @@ Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Hel
 
 7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
 
-*Term starts 10th September. 7 -week passes now available at &pound;56 [contact me to book your place.](/contact/)*
+*Term starts 10th September and ends on 19 December. There are no classes in the week 7-10 October. *
+
+*6 or 7 -week passes now available at &pound;48/56 [contact me to book your place.](/contact/)*
 
 <br>&nbsp;
