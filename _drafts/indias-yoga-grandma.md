@@ -1,7 +1,7 @@
 ---
 layout: post
 title: India's Yoga Grandma
-date: 2019-10-19 08:43:00
+date: 2019-10-26 08:43:00
 author: Lucy Tennyson
 categories:
   - Blog
