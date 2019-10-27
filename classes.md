@@ -4,7 +4,7 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space), or start at any time during the term, and beginners are welcome to all.
+#### You can usually drop into any of my classes (although at St Ethelwolds please check first if there is a space as the 5.15pm and 7.15pm classes are currently full), or start at any time during the term. Beginners are welcome to all.
 
 #### **MONDAY**
 
@@ -28,8 +28,8 @@ Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Hel
 
 7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
 
-*Term starts 10th September and ends on 19 December. There are no classes in the week 7-10 October. *
+\*Term starts 10th September and ends on 19 December. \*
 
-*6 or 7 -week passes now available at &pound;48/56 [contact me to book your place.](/contact/)*
+*6 or 7 -week passes now available for November and December at &pound;48/56 [contact me to book your place.](/contact/)*
 
 <br>&nbsp;

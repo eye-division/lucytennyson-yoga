@@ -17,6 +17,6 @@ Fascia is full of nerve endings that tell us if we are in pain. It is the matrix
 
 The yoga sequences we are doing the rest of this term are mostly drawn from Doug Keller’s workbooks, and work through the myofascial lines (you might like to think of these as lines of energy or prana). I hope process will encourage you to be your own guide, noticing how you feel when you do postures, how you react and how your body responds. Your feedback will be greatly welcomed.
 
-The sketch below comes from the workbook and shows the lines of fascia in a simple seated twist.
+The sketch below comes from the workbook, and shows the lines of movement through the myofascia that spiral through the body in a simple seated twist.
 
 ![](/uploads/yoga-myofasciallines.jpeg){: width="526" height="554"}
