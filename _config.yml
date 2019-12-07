@@ -53,6 +53,13 @@ defaults:
        #values:
             #layout: "gallery"
 
+# Cloudcannon dashboard / Explore options
+_explore:
+  groups:
+    - heading: Blogging
+      collections:
+        - posts
+        - drafts
 
 # Disqus comments
 # disqus_shortname:
