@@ -14,7 +14,7 @@ permalink: /classes/
 
 #### **TUESDAY**
 
-4\.15pm - 5.15pm New ultra slow and gentle class at North Oxford Association, Summetown. Term starts 10th September.&nbsp;*Cost &pound;8.*
+4\.15pm - 5.15pm Gentle class using chairs at North Oxford Association, Summertown. Term starts 14th January.&nbsp;*Cost &pound;8.*
 
 6pm - 7.15pm University of Oxford staff class, 61 Banbury Road, **Oxford.** All staff, post-docs and researchers (and their friends/family) welcome, please contact me for details.&nbsp; The focus is on stretching and relaxing after work, and beginners welcome. We currently meet at 61 Banbury Road, next to Gee’s. Cost &pound;7.
 
@@ -28,8 +28,6 @@ Three classes meet in the tranquil Sanctuary at St Ethelwolds House, East St Hel
 
 7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.&nbsp;
 
-\*Term starts 10th September and ends on 19 December. \*
-
-*6 or 7 -week passes now available for November and December at &pound;48/56 [contact me to book your place.](/contact/)*
+\*First half of the term starts 8th January and *6 week passes now available&nbsp; &pound;48 (or 5 for &pound;45)&nbsp;[contact me to book your place.](/contact/)*
 
 <br>&nbsp;
