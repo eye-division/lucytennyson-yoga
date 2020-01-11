@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: The philosophy behind yoga
 date: 2020-01-11 08:43:00
 author: Lucy Tennyson
 categories:
