@@ -15,6 +15,8 @@ This concept of Asteya has particular resonance for us today, with current conce
 
 How might we apply the idea of ‘non-stealing’ to our yoga practice? I’m sure you haven’t even dreamt of stealing someone’s blocks or mat\! Your suggestions welcome.
 
-In our yoga sequence this week, we worked on the legs. &nbsp;After a standing warm up, we did chair, and the head to knee forward bend, or pyramid pose (using blocks if your hands don’t reach the floor). &nbsp;Lying down, we did some pelvic rocks, first actively zipping up with the core muscles, and then passively using the leg muscles only. We finished off with some seated stretches, cross legged and then with the legs straight out in front.
+In our yoga sequence this week, we worked on the legs. &nbsp;After a standing warm up, we did chair, and the head to knee forward bend, or pyramid pose (using blocks if your hands don’t reach the floor). &nbsp;Lying down, we did some pelvic rocks, first actively zipping up with the core muscles, and then passively using the leg muscles only. We finished off with some seated stretches, cross legged and then with the legs straight out in front. &nbsp;
+
+![](/uploads/yogablog24jan.jpeg){: width="227" height="183"}&nbsp;![](/uploads/yogablog24jan-1.jpg){: width="113" height="64"}
 
 &nbsp;
