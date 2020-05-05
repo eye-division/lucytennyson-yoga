@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yoga Fundamentals Week3: Strength'
-date: 2020-04-13 08:43:00
+date: 2020-04-20 08:43:00
 author: Lucy Tennyson
 categories:
   - Blog
