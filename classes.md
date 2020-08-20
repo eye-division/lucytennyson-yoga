@@ -6,7 +6,7 @@ permalink: /classes/
 
 #### &nbsp;
 
-Here is my provisional timetable from 14 September 2020. Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class.
+Here is my provisional timetable from 7th September 2020. Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class.
 
 ##### **MONDAY**
 
@@ -20,10 +20,8 @@ ZOOM class **online** 7-8.15pm
 
 ##### **WEDNESDAY**
 
-Studio-based classes, venue to be confirmed. I hope to offer the following in central **Abingdon**\:
+5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group. St Ethelwolds, East St Helen Street
 
-5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group.&nbsp;
-
-7\.15pm - 8.30pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work.
+7pm - 8.15pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. St Ethelwolds, East St Helen Street
 
 <br>&nbsp;
