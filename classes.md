@@ -4,11 +4,11 @@ title: Classes and workshops
 permalink: /classes/
 ---
 
-#### &nbsp;
-
 Here is my provisional timetable from 7th September 2020. Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class.
 
-##### **MONDAY**
+Cost:&nbsp; studio classes &pound;10 (bookable in advance only &pound;70 for seven weeks from b/begin 7th September - 21st October). Zoom class: &pound;5 (bookable monthly). Contact me for online payment details, or to arrange payment by cheque/cash.
+
+**MONDAY**
 
 12\.30pm -1.30pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**.
 
