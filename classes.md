@@ -10,11 +10,9 @@ Cost:&nbsp; studio classes &pound;10 (bookable in advance only &pound;70 for sev
 
 **MONDAY**
 
-12\.30pm -1.30pm Friendly daytime yoga class for all. A mixed class for all levels and ages. [Saturn Fitness and Wellness](http://www.saturnfitness.co.uk/), Peachcroft Shopping Centre, **Abingdon**.
+2\.30-3.30pm and 5.15-6.30pm Friendly, mixed classes taking a gentle approach suitable for beginners. We practise outside in the walled garden when the weather is warm and dry enough. St Ethelwolds House, East St Helen Street.
 
-ZOOM class **online** 7-8.15pm
-
-##### **TUESDAY**
+**TUESDAY**
 
 6\.15-7.30pm Yoga for all at North Oxford Association, **Summertown**. Friendly and welcoming group: University staff, post-docs and researchers (and their friends/family) particularly welcome, please contact me for details.&nbsp; The focus is on stretching and relaxing after work, and beginners welcome.&nbsp;
 
@@ -24,4 +22,6 @@ ZOOM class **online** 7-8.15pm
 
 7pm - 8.15pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. St Ethelwolds, East St Helen Street
 
-<br>&nbsp;
+##### **THURSDAY**
+
+ZOOM class **online** 6-7pm
