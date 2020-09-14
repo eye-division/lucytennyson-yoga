@@ -6,7 +6,7 @@ permalink: /classes/
 
 Here is my provisional timetable from 7th September - 22nd October 2020. Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class.
 
-Cost:&nbsp; studio classes &pound;10 bookable in advance per half term block. Zoom class: &pound;5 (pay as you go monthly). Contact me for online payment details, or to arrange payment by cheque/cash.
+Cost:&nbsp; studio classes &pound;10 bookable in advance per half term block. Zoom class: &pound;5 (pay as you go monthly). Contact me for online payment details, or to arrange payment by cheque/cash. Personal one-to-one sessions &pound;40 Zoom/at my home, &pound;50 at your home or garden.
 
 **MONDAY**
 
