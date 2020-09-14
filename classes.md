@@ -10,7 +10,7 @@ Cost:&nbsp; studio classes &pound;10 bookable in advance per half term block. Zo
 
 **MONDAY**
 
-2\.30-3.30pm and 5.15-6.30pm Friendly, mixed classes taking a gentle approach suitable for beginners. We practise outside when the weather is warm and dry enough. Radley Village Hall.
+2\.30-3.30pm and 5.15-6.30pm Friendly, mixed classes taking a gentle approach suitable for beginners. We practise outside when the weather is warm and dry enough. Radley Village Hall. Gooseacre, Radley, Abingdon OX14 3BL [website](http://www.radleyvillage.org.uk/institutions/village-hall/)
 
 **TUESDAY**
 
