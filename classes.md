@@ -10,7 +10,9 @@ Cost:&nbsp; studio classes &pound;10 bookable in advance per half term block. Zo
 
 **MONDAY**
 
-2\.30-3.30pm and 5.15-6.30pm Friendly, mixed classes taking a gentle approach suitable for beginners. We practise outside when the weather is warm and dry enough. Radley Village Hall. Gooseacre, Radley, Abingdon OX14 3BL [website](http://www.radleyvillage.org.uk/institutions/village-hall/)
+2\.30-3.30pm &nbsp;Friendly, mixed classes taking a gentle approach suitable for beginners. Newcomers welcome. Large, bright and well ventilated hall with plenty of room to spread out. Radley Village Hall. Gooseacre, Radley, Abingdon OX14 3BL [website](http://www.radleyvillage.org.uk/institutions/village-hall/)
+
+ZOOM online class 6-7pm. Please use the contact form to get in touch.
 
 **TUESDAY**
 
@@ -18,10 +20,12 @@ Cost:&nbsp; studio classes &pound;10 bookable in advance per half term block. Zo
 
 ##### **WEDNESDAY**
 
-5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group. St Ethelwolds, East St Helen Street, Abingdon.
+5\.15pm-6.30pm End a busy day with gentle yoga and relaxation, and unwind with a hatha flow class. All levels, a friendly mixed group. St Ethelwolds, 30 East St Helen St, Abingdon OX14 5EB. Class full.
 
-7pm - 8.15pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. St Ethelwolds, East St Helen Street, Abingdon.
+7pm - 8.15pm Yoga for all: A slightly stronger focus, all welcome, especially those looking for a good stretch and chance to relax after work. St Ethelwolds, East St Helen Street, Abingdon. OX14 5EB. Class full.
 
-##### **THURSDAY**
+**THURSDAY**
 
-ZOOM class **online** 6-7pm
+5\.15 - 6.15pm&nbsp; New class starting this month. Hatha class, suitable for levels including beginners. Come and give yoga a try\! Large, bright and well ventilated hall with plenty of room to spread out. Radley Village Hall. Gooseacre, Radley, Abingdon OX14 3BL [website](http://www.radleyvillage.org.uk/institutions/village-hall/)
+
+&nbsp;
