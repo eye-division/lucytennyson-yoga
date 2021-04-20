@@ -20,14 +20,12 @@ no classes
 
 ##### **WEDNESDAY**
 
+5 - 6pm&nbsp; Gentle/beginners and anyone looking for a relaxing session
+
 6\.30-.730pm&nbsp; End the day with some deep stretches. Similar to Monday, but ends with a restorative posture to help with relaxation.
 
 **THURSDAY**
 
-5\.15 - 6.15pm&nbsp; Gentle/beginners and anyone looking for a relaxing session&nbsp;
-
-**SATURDAY**
-
-9 - 9.30am&nbsp; Wake up stretch and breathe - free session all welcome
+&nbsp;no classes
 
 &nbsp;
