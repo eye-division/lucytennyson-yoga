@@ -12,13 +12,7 @@ Cost:&nbsp; &nbsp;Zoom class: &pound;8 (pay as you go) or four weekly Zoom class
 
 2-3pm.&nbsp; Afternoon yoga in the Sanctuary at St Ethelwolds, East St Helen Street, Abingdon (all levels).
 
-3\.30-4.30pm. Gentle slow yoga, beginners welcome: St Ethelwolds (new class)
-
 6-7pm. Move with a hatha flow, including some stronger postures: online Zoom
-
-**TUESDAY (from 19 October)**
-
-6-7.15pm. New class coming to central Oxford soon, email me if you are interestsed.
 
 ##### **WEDNESDAY**
 
@@ -26,6 +20,4 @@ Cost:&nbsp; &nbsp;Zoom class: &pound;8 (pay as you go) or four weekly Zoom class
 
 7- 8.15pm.&nbsp; Class for more experienced students: St Ethelwolds (currently full).
 
-**THURSDAY/FRIDAY**
-
-&nbsp;no classes
+&nbsp;
