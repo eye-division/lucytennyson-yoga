@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Classes and workshops
+title: 'Classes '
 permalink: /classes/
 ---
 
