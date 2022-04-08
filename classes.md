@@ -4,11 +4,11 @@ title: 'Classes '
 permalink: /classes/
 ---
 
-Here is my timetable from March 2022. Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class.
+Here is my current timetable. Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class.
 
-Cost:&nbsp; &nbsp;The next block of classes runs from 14 March - 13 April. The cost of the five week block is &pound;45. Drop in where available is &pound;11.&nbsp; Five online Zoom classes &pound;30, or drop in &pound;8. Contact me for online payment details, or to arrange payment by cheque/cash.&nbsp;
+Cost:&nbsp; &nbsp;The cost of a five week block is &pound;45. Drop in where available is &pound;11.&nbsp; Five online Zoom classes &pound;30, or drop in &pound;8. Contact me for online payment details, or to arrange payment by cheque/cash.&nbsp;
 
-There will be a one-week break 18-22 April, and classes resume on 25 April.
+There will be a one-week break 18-22 April, and classes resume on 25 April. There will then be a five week block of classes with the last session on Wed 25 May. The summer term starts on 6 June 2022.
 
 **MONDAY**
 
