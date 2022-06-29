@@ -8,7 +8,7 @@ Here is my current timetable. Please get in touch using the contact form on this
 
 Cost:&nbsp; &nbsp;The cost of a five week block is &pound;45. Drop in where available is &pound;11.&nbsp; Five online Zoom classes &pound;30, or drop in &pound;8. Contact me for online payment details, or to arrange payment by cheque/cash.&nbsp;
 
-There will be a one-week break 18-22 April, and classes resume on 25 April. There will then be a five week block of classes with the last session on Wed 25 May. The summer term starts on 6 June 2022.
+There is one more week of the summer term 2022. Yoga in the garden at St Ethelwolds will run through the summer, at 2pm on Mondays and 6pm pm Wednesdays (please email me to check the class is on).&nbsp; The September term will resume on 5th September with the timetable below.
 
 **MONDAY**
 
