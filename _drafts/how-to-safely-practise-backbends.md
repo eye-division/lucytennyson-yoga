@@ -6,7 +6,6 @@ author: Lucy Tennyson
 categories:
   - Blog
 ---
-
 Backbends are invigorating and strengthening. They stretch the front of the hips, and help open up the shoulders and chest, an area where lots of us hold tension. They build strength and power in the legs, arms and back muscles. By increasing mobility and awareness of the spine backbends improve posture and can help to alleviate some kinds of back and neck pain.
 
 However, strong backbends don’t suit everyone, especially if you are new to yoga, or have a back issue. Be sure to first prepare&nbsp; by warming up the whole body with postures such as downward dog, cat and lunges, and gentle sun salutations such as we practised last week. &nbsp;
@@ -25,4 +24,4 @@ This is the only one I found with a more normal looking teacher\!
 
 While Yoga Journal recommends this core sequence to help you tone up and prepare for backbends.
 
-https://www.yogajournal.com/practice/the-yoga-crunch\#gid=ci020756a160122620&pid=round-your-spine-even-more--tiffany-russo
+https://www.yogajournal.com/practice/the-yoga-crunch\#gid=ci020756a160122620&pid=round-your-spine-even-more–tiffany-russo
