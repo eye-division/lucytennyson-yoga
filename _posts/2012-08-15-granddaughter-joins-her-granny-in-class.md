@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Granddaughter joins her granny in class!
+title: Granddaughter joins her granny in class
 date: 2012-08-15 08:43:00
 author: Lucy Tennyson
 categories:
@@ -19,3 +19,5 @@ I did a quick bit of research on google, and a US survey showed that both over-7
 I think the message might be, you’re never too young to start …. And never too old to stop. Here are Lizzie and Grace, an inspiration to us all.
 
 ![](/uploads/img-20220816-wa0009.jpg){: width="1200" height="1600"}
+
+&nbsp;
