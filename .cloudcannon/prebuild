@@ -1,4 +1,4 @@
 #!/bin/bash
 
-npm install bulma;
+npm install bulma
 npm install bulma-block-list
