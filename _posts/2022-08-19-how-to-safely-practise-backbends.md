@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to safely practise backbends
-date: 2022-08-19 15:43:00
+date: 2022-08-18 15:43:00
 author: Lucy Tennyson
 image:
 categories:
