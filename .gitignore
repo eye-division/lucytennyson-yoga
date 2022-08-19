@@ -5,7 +5,6 @@ _site
 Gemfile.lock
 .idea
 .DS_Store
-*-lock.json
 
 # Need to allow our SASS vendor folder
 !_sass/vendor/
