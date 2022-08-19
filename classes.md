@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Classes '
+title: 'Classes'
 permalink: /classes/
 ---
-**Afternoon workshop: Monday 29 th August&nbsp; 2 pm - 4.30 pm**
+**Afternoon workshop: Monday 29th August  2 pm - 4.30 pm**
 
 The theme is Preparing for Autumn: Strength to meet the challenges to come
 
@@ -18,7 +18,7 @@ A lot of uncertainty faces us all this coming winter. We can’t predict what wi
 
 We’ll enjoy a relaxed afternoon in the garden, with the option to go indoors if it rains.
 
-**Termly timetable from 5 th September 2022**
+**Termly timetable from 5th September 2022**
 
 Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class.
 

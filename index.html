@@ -1,15 +1,16 @@
 ---
-layout: default
----
-<div class="page">
+layout: page
+title: 'Lucy Tennyson<br>yoga teacher'
+hero_image: /assets/images/header-sea.jpg
+hero_darken: false
+---   
 
-    <div class="editable">
-      <h2>To visit my <strong>art website </strong>click here <a target="_blank" rel="noopener" href="http://www.lucytennyson.co.uk">www.lucytennyson.co.uk</a></h2>
-      <h2>For information about <strong>yoga classes in Abingdon and on Zoom</strong>, read on ....<em></em></h2>
-      <p><strong>ABINGDON YOGA :&nbsp;</strong><strong>Gentle and accessible yoga for all levels, all ages!&nbsp;</strong></p>
-      <p>I teach in a softer 'hatha' style to suit all ages and levels of fitness, and welcome beginners. I have been teaching yoga in Abingdon for 12 years, and more recently online using Zoom.&nbsp;</p>
-      <h3>&nbsp;</h3>
-      <p><img width="567" height="319" src="/uploads/gardenyoga.JPG" /></p>
+<div class="editable">
+  <p><a href="https://www.lucytennyson.co.uk/">Visit my art website</a></p>
+  <p>For information about <strong>yoga classes in Abingdon and on Zoom</strong>, read on ....</p>
+  <p><strong>ABINGDON YOGA :&nbsp;</strong><strong>Gentle and accessible yoga for all levels, all ages!&nbsp;</strong></p>
+  <p>I teach in a softer 'hatha' style to suit all ages and levels of fitness, and welcome beginners. I have been teaching yoga in Abingdon for 12 years, and more recently online using Zoom.&nbsp;</p>
+      <p><img width="567" height="319" src="/uploads/gardenyoga.JPG" alt="Group class in St Ethelwold's Garden, Abingdon" /></p>
       <p><em>We practise in the beautiful garden at St Ethelwolds in Abingdon in the summer months.</em></p>
       <p><strong>Get in touch using the contact page on this website.</strong></p>
       <p><em><strong>The following timetable starts on 5 th September 2022:</strong></em></p>
@@ -17,77 +18,11 @@ layout: default
       <p>6-7PM Hatha flow (all levels) online Zoom.</p>
       <p><strong>Wednesday </strong>&nbsp; two evenings classes in the Sanctuary, St Ethelwolds 5.15 - 6.30 pm (all levels);<br />and &nbsp;7-8.15 pm (stronger after work stretch).</p>
       <p><strong>See below for my latest weekly class blog</strong></p>
-    </div>
-
-     <div class="wrapper">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr />
-  {% endif %}
-  {% endfor %}
-</ul>
-
-<nav class="pagination" role="navigation">
-  <p>
-    {% if paginator.next_page %}
-    <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-      <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% else %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% endif %}
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-  </p>
-  <p>
-    <a href="{{ site.baseurl }}/posts">View All Posts</a>
-  </p>
-</nav>
 
 </div>
-</div>
 
-      <div class="editor-link">
-        <!-- Editor Link to site status -->
-        <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
-      </div>
+
+<div class="editor-link">
+  <!-- Editor Link to site status -->
+  <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
+</div>

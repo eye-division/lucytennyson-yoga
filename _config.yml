@@ -1,19 +1,32 @@
-# External gems - updated to plugins in jekyll v3.6
 plugins:
- # - jekyll-archives # Sorry, not GitHub pages friendly!
- # - jekyll-assets
- # - autoprefixer-rails
-   - jekyll-seo-tag
-   - jekyll-sitemap
-   - jekyll/tagging
-   - jekyll-tagging-related_posts
-   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Site settings
+lang: en
 title: Lucy Tennyson
 subtitle: Yoga teacher
-
+tagline: Yoga teacher
+permalink: pretty
 name: Lucy Tennyson
+theme: bulma-clean-theme
+
+
+
 description: Web site for Lucy Tennyson's yoga classes in Oxfordshire
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
@@ -26,11 +39,12 @@ email: support@eyedivision.com
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+highlighter: rouge
+
 
 # Pagination for Jekyll 3
 paginate: 5
-# paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page:num"
 
 # Image CDN
 imagecdn:
@@ -39,19 +53,33 @@ imagecdn:
 
 # Collections Example
 collections:
-    #gallery:
-        #output: true
-        #permalink: /gallery/:path/
-        #_hide_content: true
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
 
 # Defaults Example
 defaults:
-   # -
-        #scope:
-            #path: ""
-            #type: "gallery"
-       #values:
-            #layout: "gallery"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+      hero_image: /assets/images/header-sea.jpg
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "C.S. Rhymes"
+      layout: post
+      image: https://via.placeholder.com/1200x800
+      show_sidebar: true
+
+
+footer_menu: example_footer_menu
 
 # Cloudcannon dashboard / Explore options
 #_explore:
