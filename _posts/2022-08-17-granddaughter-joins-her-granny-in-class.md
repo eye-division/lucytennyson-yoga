@@ -3,6 +3,7 @@ layout: post
 title: Granddaughter joins her granny in class
 date: 2022-08-17 08:43:00
 author: Lucy Tennyson
+image: /uploads/img-20220816-wa0009.jpg
 categories:
   - Blog
 ---

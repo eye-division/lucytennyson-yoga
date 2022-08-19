@@ -1,30 +1,11 @@
 ---
 layout: default
 ---
-<div class="page">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-
-  <article class="post-content">
-
-    {% if page.main_image_path %}
-    <figure class="alignright">
-        {% if page.image_size == 'small' %}
-          {% include img.html src=page.main_image_path alt=page.image_description  width=180 %}
-        {% else %}
-          {% include img.html src=page.main_image_path alt=page.image_description  width=240 %}
-        {% endif %}
-    </figure>
-    {% endif %}
-
-    <div>
-      {{ content }}
-    </div>
-
-  </article>
-
+{% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+{% endif %}
+<div class="content">
+    {{ content }}
 </div>
-

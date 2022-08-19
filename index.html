@@ -1,94 +1,29 @@
 ---
-layout: default
+layout: page
+title: 'Lucy Tennyson<br>yoga teacher'
+hero_image: /assets/images/header-sea.jpg
+hero_darken: true
 ---
-<div class="page">
 
-    <div class="editable">
-      <h2>To visit my <strong>art website </strong>click here <a target="_blank" rel="noopener" href="http://www.lucytennyson.co.uk">www.lucytennyson.co.uk</a></h2>
-      <h2>For information about <strong>yoga classes in Abingdon and on Zoom</strong>, read on ....<em></em></h2>
-      <p>I teach in a relatively gentle 'hatha' style to suit all ages and levels of fitness, and welcome beginners. I have been teaching yoga in Abingdon for 12 years, and more recently online using Zoom.&nbsp;</p>
-      <h3>Yoga workshop Monday August 29 2 - 4. 30 pm: Get Ready for Autumn</h3>
-      <p>Set yourself up for the autumn term of yoga with this special workshop. We'll do two yoga sessions, one energising, and one cooling and relaxing. All levels welcome, and handouts provided. I'll provide refreshments in between sessions in the dining room at St Ethelwolds. Cost &pound;20, contact me to reserve your place (pay on the day).&nbsp; We'll practise in the garden if fine.</p>
-      <p><strong>ABINGDON YOGA&nbsp;</strong></p>
-      <p><strong>This summer join me in the beautiful setting of the garden of the St Ethelwolds retreat centre in central Abingdon: </strong><strong>Every Monday at 2 pm and Wednesday at 6 pm from 27 July until September (drop in welcome)&nbsp; All levels, all ages!</strong></p>
-      <p><img width="567" height="319" src="/uploads/gardenyoga.JPG" /></p>
-      <p><strong>Get in touch using the contact page on this website.</strong></p>
-      <p><em><strong>The following timetable will resume from September:</strong></em></p>
-      <p><strong>Monday</strong>&nbsp;2-3.15pm Afternoon yoga (slow and gentle)in the studio at St Ethelwolds (outdoors if fine)</p>
-      <p>6-7PM Hatha flow (all levles) online Zoom.</p>
-      <p><strong>Wednesday </strong>&nbsp; two evenings classes in the Sanctuary, St Ethelwolds 5.15 - 6.30 pm (all levels);<br />and &nbsp;7-8.15 pm (stronger after work stretch).</p>
-      <p><strong>See below for my latest weekly class blog</strong></p>
-    </div>
-
-     <div class="wrapper">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr />
-  {% endif %}
-  {% endfor %}
-</ul>
-
-<nav class="pagination" role="navigation">
-  <p>
-    {% if paginator.next_page %}
-    <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-      <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% else %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-      {% endif %}
-    {% else %}
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-    </span>
-    {% endif %}
-  </p>
-  <p>
-    <a href="{{ site.baseurl }}/posts">View All Posts</a>
-  </p>
-</nav>
-
-</div>
+<div class="editable">
+  <h2>To visit my <strong>art website </strong>click here <a target="_blank" rel="noopener" href="http://www.lucytennyson.co.uk">www.lucytennyson.co.uk</a></h2>
+  <h2>For information about <strong>yoga classes in Abingdon and on Zoom</strong>, read on ....<em></em></h2>
+  <p>I teach in a relatively gentle 'hatha' style to suit all ages and levels of fitness, and welcome beginners. I have been teaching yoga in Abingdon for 12 years, and more recently online using Zoom.&nbsp;</p>
+  <h3>Yoga workshop Monday August 29 2 - 4. 30 pm: Get Ready for Autumn</h3>
+  <p>Set yourself up for the autumn term of yoga with this special workshop. We'll do two yoga sessions, one energising, and one cooling and relaxing. All levels welcome, and handouts provided. I'll provide refreshments in between sessions in the dining room at St Ethelwolds. Cost &pound;20, contact me to reserve your place (pay on the day).&nbsp; We'll practise in the garden if fine.</p>
+  <p><strong>ABINGDON YOGA&nbsp;</strong></p>
+  <p><strong>This summer join me in the beautiful setting of the garden of the St Ethelwolds retreat centre in central Abingdon: </strong><strong>Every Monday at 2 pm and Wednesday at 6 pm from 27 July until September (drop in welcome)&nbsp; All levels, all ages!</strong></p>
+  <p><img width="567" height="319" src="/uploads/gardenyoga.JPG" /></p>
+  <p><strong>Get in touch using the contact page on this website.</strong></p>
+  <p><em><strong>The following timetable will resume from September:</strong></em></p>
+  <p><strong>Monday</strong>&nbsp;2-3.15pm Afternoon yoga (slow and gentle)in the studio at St Ethelwolds (outdoors if fine)</p>
+  <p>6-7PM Hatha flow (all levles) online Zoom.</p>
+  <p><strong>Wednesday </strong>&nbsp; two evenings classes in the Sanctuary, St Ethelwolds 5.15 - 6.30 pm (all levels);<br />and &nbsp;7-8.15 pm (stronger after work stretch).</p>
+  <p><strong>See below for my latest weekly class blog</strong></p>
 </div>
 
-      <div class="editor-link">
-        <!-- Editor Link to site status -->
-        <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
-      </div>
+
+<div class="editor-link">
+  <!-- Editor Link to site status -->
+  <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
+</div>
