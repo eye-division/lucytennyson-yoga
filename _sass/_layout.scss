@@ -11,7 +11,8 @@ div.highlight {
         }
     }
 }
-
+ 
+  
 .contents {
     box-shadow: $box-shadow;
     padding: 1.5rem;
@@ -38,3 +39,12 @@ div.highlight {
 
 // Alpine.js hide on initial load
 [x-cloak] { display: none !important; }
+
+// Cloudcannon editor
+.editor-content {
+    display: none;
+}
+
+.cms-editor-active .editor-content {
+    display: block;
+}
