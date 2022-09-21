@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding balance
+title: Finding balance through yoga
 date: 2022-09-21 08:43:00
 author: Lucy Tennyson
 categories:
