@@ -3,6 +3,7 @@ layout: post
 title: Kickstart your home practice!
 date: 2022-08-17 08:43:00
 author: Lucy Tennyson
+image: "/uploads/yogaclockface.jpg"
 categories:
   - Blog
 ---
