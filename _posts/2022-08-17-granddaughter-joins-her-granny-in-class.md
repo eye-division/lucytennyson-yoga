@@ -7,8 +7,7 @@ image: /uploads/img-20220816-wa0009.jpg
 categories:
   - Blog
 ---
-
-I sometimes get asked if a parent can bring a daughter (although seldom a son) along to class, but this summer one of my regular students asked if she could bring her 13 year old granddaughter to one of the sessions in the garden.
+I sometimes get asked if a parent can bring a daughter (although seldom a son) along to class, but this summer one of my regular students asked if she could bring her 11 year old granddaughter to one of the sessions in the garden.
 
 I realised afterwards there was a 60 year age gap – and both were happily doing the same yoga postures. I'd never had this happen before.
 
@@ -20,4 +19,4 @@ I did a quick bit of research on google, and a US survey showed that both over-7
 
 I think the message might be, you’re never too young to start …. And never too old to stop. Here are Lizzie and Grace, an inspiration to us all.
 
-![](/uploads/img-20220816-wa0009.jpg){: width="1200" height="1600"} 
+![](/uploads/img-20220816-wa0009.jpg){: width="1200" height="1600"}
