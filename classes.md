@@ -11,9 +11,9 @@ Cost:&nbsp; &nbsp;The cost of a termly pass works out at &pound;9 a class. Drop 
 
 **MONDAY**
 
-2-3.15pm.&nbsp; Afternoon yoga in the Sanctuary at St Ethelwolds, East St Helen Street, Abingdon (a more gentle session).
+2-3.15pm.&nbsp; Afternoon yoga in the Sanctuary at St Ethelwolds, East St Helen Street, Abingdon (a more gentle session). On bank holidays, the class moves to Wednesday afternoon.
 
-6-7pm. Move with a hatha flow, including some stronger postures: online Zoom
+6-7pm. Move with a hatha flow, including some stronger postures: online Zoom. On bank holidays, the Monday zoom moves to Tuesdays.
 
 ##### **WEDNESDAY**
 
