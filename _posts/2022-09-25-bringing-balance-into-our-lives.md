@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bringing balance into our lives
-date: 2022-09-25 08:43:00
+date: 2023-09-01 08:43:00
 author: Lucy Tennyson
 categories:
   - Blog
