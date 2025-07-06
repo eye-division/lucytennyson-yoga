@@ -17,6 +17,6 @@ Cost:&nbsp; A termly pass works out at £10 a class. If there is a space availab
 
 ##### **WEDNESDAY**
 
-5-6.10 pm. A slow flow, beginners welcome: the Sanctuary.
+5\.15-6.20 pm. A slow flow, beginners welcome: the Sanctuary.
 
-6\.45 -7.50 pm.&nbsp; A deeper session, including restorative poses. Ideal for after work, all levels: the Sanctuary.
+7\.00 -8.05 pm.&nbsp; A deeper session, including restorative poses. Ideal for after work, all levels: the Sanctuary.
