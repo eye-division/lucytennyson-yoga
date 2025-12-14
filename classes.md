@@ -3,17 +3,17 @@ layout: page
 title: Classes
 permalink: /classes/
 ---
-**Termly timetable from 6th January 2025**
+**Termly timetable**
 
-Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class. As the classes are small, up to eight, most fill up quickly at the beginning of each term. Students are asked if possible to book for a half term block of between 6 and 7 weeks.
+Please get in touch using the contact form on this website for further information and to let me know you are interested in joining a class. As the classes are small, up to eight, most fill up quickly at the beginning of each term. Students are asked if possible to book for a half term block of between 5 and 7 weeks.
 
-Cost:&nbsp; A termly pass works out at £10 a class. If there is a space available drop in is £12.&nbsp; Five online Zoom classes £35, or drop in £8. Contact me for online payment details, or to arrange payment by cheque/cash.&nbsp;
+Cost:&nbsp; Currently (2026) A termly pass works out at £11 a class. If there is a space available drop in is £14.&nbsp; Five online Zoom classes £35, or drop in £7. Contact me for online payment details, or to arrange payment by cheque/cash.&nbsp;
 
 **MONDAY**
 
 10\.45 - 11.50.&nbsp; Morning yoga in the Sanctuary at St Ethelwolds, East St Helen Street, Abingdon (a more gentle session). On bank holidays, the class moves to Wednesdays.
 
-5-6 pm. Move with a hatha flow, including some stronger postures: online Zoom. On bank holidays, the Monday zoom moves to Tuesdays.
+6-7 pm. Move with a hatha flow, including some stronger postures: online Zoom. On bank holidays, the Monday zoom moves to Tuesdays.
 
 ##### **WEDNESDAY**
 
