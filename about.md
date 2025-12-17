@@ -8,10 +8,9 @@ image_size: small
 ---
 “*The more often we practise bringing our attention back to the present moment through yoga, the more skilled we will become at fully experiencing life as we are living it, and the happier we will be.”*
 
-![Lucy Tennyson  with yoga mat](/assets/images/lucy-tennyson.jpg){: width="667" height="1200"} 
-I have been teaching yoga in the Oxford area since 2011. It’s been a lifetime passion - I went to my first ever class in 1972 and have been hooked on yoga ever since.&nbsp; I’ve found it very complementary to sport, and is now enabling me to continue to remain active as I move into my ‘golden’ years.
+![Lucy Tennyson  with yoga mat](/assets/lucy-tennyson-small.jpg){: width="667" height="1200"} I have been teaching yoga in the Oxford area since 2011. It’s been a lifetime passion - I went to my first ever class in 1972 and have been hooked on yoga ever since.&nbsp; I’ve found it very complementary to sport, and is now enabling me to continue to remain active as I move into my ‘golden’ years.
 
-My style is rooted in the hatha tradition (as opposed to the faster paced ‘Vinyasa Flow’  which has become very popular in the last decade). There is no pressure in my classes to push yourself into doing strong postures. There is no such thing as ‘I can’t do yoga’. Rather yoga is for you, to listen to your body and practise at level that is right for you.
+My style is rooted in the hatha tradition (as opposed to the faster paced ‘Vinyasa Flow’ which has become very popular in the last decade). There is no pressure in my classes to push yourself into doing strong postures. There is no such thing as ‘I can’t do yoga’. Rather yoga is for you, to listen to your body and practise at level that is right for you.
 
 My teaching is based on my own experience. Unlike many other yoga teachers, I didn’t begin with a flexible body, and had a tendency towards tight muscles and lower back pain in my twenties. By practising yoga, I remember reaching my toes for the first time! And gradually, with patience, I have been able to ‘let go’. I think my own experiences enable me to understand what it is like to feel stiff, creaky or have some kind of injury that prevents a full range of movement.
 
