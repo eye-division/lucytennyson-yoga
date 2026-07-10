@@ -11,12 +11,12 @@ Cost:&nbsp; Currently (2026) A termly pass works out at £11 a class. If there i
 
 **MONDAY**
 
-10\.45 - 11.50.&nbsp; Morning yoga in the Sanctuary at St Ethelwolds, East St Helen Street, Abingdon (a more gentle session). On bank holidays, the class moves to Wednesdays.
+11am - 12pm.&nbsp; Morning yoga in the Sanctuary at St Ethelwolds, East St Helen Street, Abingdon (a more gentle session). On bank holidays, the class moves to another day.
 
-6-7 pm. Move with a hatha flow, including some stronger postures: online Zoom. On bank holidays, the Monday zoom moves to Tuesdays.
+6-7 pm. Online Zoom class. Move with a hatha flow, including some stronger postures. On bank holidays, the Monday zoom moves to Tuesdays.
 
 ##### **WEDNESDAY**
 
-5\.15-6.20 pm. A slow flow, beginners welcome: the Sanctuary.
+5\.15-6.25 pm. A slow flow, beginners welcome: the Sanctuary.
 
-7\.00 -8.05 pm.&nbsp; A deeper session, including restorative poses. Ideal for after work, all levels: the Sanctuary.
+7\.00 -8.10 pm.&nbsp; A deeper session, including restorative poses. Ideal for after work, all levels: the Sanctuary.
